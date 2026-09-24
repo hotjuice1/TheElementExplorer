@@ -1,0 +1,34 @@
+{
+  "backend": "AtomRenderer",
+  "checks": [
+    "Required 13 elements selected and rendered",
+    "Rapid switch through all 118 elements",
+    "Tile click, name/symbol/number search, invalid search, combined filters, C-14, positive/negative ions",
+    "Mouse rotate/pan/wheel, center/reset, auto-rotate, pause/resume, all speeds",
+    "Ray picking: proton and electron",
+    "All visualization modes rendered; screenshots saved",
+    "All s/p/d/f cloud selectors rendered",
+    "Compact and large window resize",
+    "Heavy-atom delivered-frame benchmarks",
+    "Automatic compatibility fallback preserves selected atom"
+  ],
+  "rapid_switch_118_seconds": 2.435,
+  "performance": {
+    "U": {
+      "fps": 62.5,
+      "frame_ms": 16.01,
+      "particles": 330
+    },
+    "Pu": {
+      "fps": 62.5,
+      "frame_ms": 16.0,
+      "particles": 338
+    },
+    "Og": {
+      "fps": 62.5,
+      "frame_ms": 15.99,
+      "particles": 412
+    }
+  },
+  "uncaught_exceptions": []
+}

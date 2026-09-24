@@ -1,0 +1,5237 @@
+[
+  {
+    "atomic_number": 1,
+    "symbol": "H",
+    "name": "Hydrogen",
+    "atomic_mass": 1.008,
+    "period": 1,
+    "group": 1,
+    "category": "nonmetal",
+    "block": "s",
+    "protons": 1,
+    "electrons": 1,
+    "neutrons": 0,
+    "electron_configuration": "1s1",
+    "shell_distribution": [
+      1
+    ],
+    "representative_isotope": 1,
+    "isotopes": [
+      {
+        "mass_number": 1,
+        "abundance": 99.9855
+      },
+      {
+        "mass_number": 2,
+        "abundance": 0.0145
+      },
+      {
+        "mass_number": 3,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 2.2,
+    "atomic_radius": 31.0,
+    "melting_point": 13.99,
+    "boiling_point": 20.271,
+    "density": 8.988e-05,
+    "state": "gas",
+    "discovery_year": 1766,
+    "description": "Hydrogen is a chemical element with chemical symbol H and atomic number 1. With an atomic weight of 1.00794 u, hydrogen is the lightest element on the periodic table. Its monatomic form (H) is the most abundant chemical substance in the Universe, constituting roughly 75% of all baryonic mass.",
+    "source": "https://en.wikipedia.org/wiki/Hydrogen"
+  },
+  {
+    "atomic_number": 2,
+    "symbol": "He",
+    "name": "Helium",
+    "atomic_mass": 4.0026022,
+    "period": 1,
+    "group": 18,
+    "category": "noble gas",
+    "block": "s",
+    "protons": 2,
+    "electrons": 2,
+    "neutrons": 2,
+    "electron_configuration": "1s2",
+    "shell_distribution": [
+      2
+    ],
+    "representative_isotope": 4,
+    "isotopes": [
+      {
+        "mass_number": 3,
+        "abundance": 0.00019999999999999998
+      },
+      {
+        "mass_number": 4,
+        "abundance": 99.99980000000001
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": 28.0,
+    "melting_point": 0.95,
+    "boiling_point": 4.222,
+    "density": 0.0001786,
+    "state": "gas",
+    "discovery_year": 1868,
+    "description": "Helium is a chemical element with symbol He and atomic number 2. It is a colorless, odorless, tasteless, non-toxic, inert, monatomic gas that heads the noble gas group in the periodic table. Its boiling and melting points are the lowest among all the elements.",
+    "source": "https://en.wikipedia.org/wiki/Helium"
+  },
+  {
+    "atomic_number": 3,
+    "symbol": "Li",
+    "name": "Lithium",
+    "atomic_mass": 6.94,
+    "period": 2,
+    "group": 1,
+    "category": "alkali metal",
+    "block": "s",
+    "protons": 3,
+    "electrons": 3,
+    "neutrons": 4,
+    "electron_configuration": "1s2 2s1",
+    "shell_distribution": [
+      2,
+      1
+    ],
+    "representative_isotope": 7,
+    "isotopes": [
+      {
+        "mass_number": 6,
+        "abundance": 4.8500000000000005
+      },
+      {
+        "mass_number": 7,
+        "abundance": 95.15
+      }
+    ],
+    "electronegativity": 0.98,
+    "atomic_radius": 128.0,
+    "melting_point": 453.65,
+    "boiling_point": 1603,
+    "density": 0.534,
+    "state": "solid",
+    "discovery_year": 1817,
+    "description": "Lithium (from Greek:λίθος lithos, \"stone\") is a chemical element with the symbol Li and atomic number 3. It is a soft, silver-white metal belonging to the alkali metal group of chemical elements. Under standard conditions it is the lightest metal and the least dense solid element.",
+    "source": "https://en.wikipedia.org/wiki/Lithium"
+  },
+  {
+    "atomic_number": 4,
+    "symbol": "Be",
+    "name": "Beryllium",
+    "atomic_mass": 9.01218315,
+    "period": 2,
+    "group": 2,
+    "category": "alkaline earth metal",
+    "block": "s",
+    "protons": 4,
+    "electrons": 4,
+    "neutrons": 5,
+    "electron_configuration": "1s2 2s2",
+    "shell_distribution": [
+      2,
+      2
+    ],
+    "representative_isotope": 9,
+    "isotopes": [
+      {
+        "mass_number": 9,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 1.57,
+    "atomic_radius": 96.0,
+    "melting_point": 1560,
+    "boiling_point": 2742,
+    "density": 1.85,
+    "state": "solid",
+    "discovery_year": 1798,
+    "description": "Beryllium is a chemical element with symbol Be and atomic number 4. It is created through stellar nucleosynthesis and is a relatively rare element in the universe. It is a divalent element which occurs naturally only in combination with other elements in minerals.",
+    "source": "https://en.wikipedia.org/wiki/Beryllium"
+  },
+  {
+    "atomic_number": 5,
+    "symbol": "B",
+    "name": "Boron",
+    "atomic_mass": 10.81,
+    "period": 2,
+    "group": 13,
+    "category": "metalloid",
+    "block": "p",
+    "protons": 5,
+    "electrons": 5,
+    "neutrons": 6,
+    "electron_configuration": "1s2 2s2 2p1",
+    "shell_distribution": [
+      2,
+      3
+    ],
+    "representative_isotope": 11,
+    "isotopes": [
+      {
+        "mass_number": 10,
+        "abundance": 19.650000000000002
+      },
+      {
+        "mass_number": 11,
+        "abundance": 80.35000000000001
+      }
+    ],
+    "electronegativity": 2.04,
+    "atomic_radius": 84.0,
+    "melting_point": 2349,
+    "boiling_point": 4200,
+    "density": 2.08,
+    "state": "solid",
+    "discovery_year": 1808,
+    "description": "Boron is a metalloid chemical element with symbol B and atomic number 5. Produced entirely by cosmic ray spallation and supernovae and not by stellar nucleosynthesis, it is a low-abundance element in both the Solar system and the Earth's crust. Boron is concentrated on Earth by the water-solubility of its more common naturally occurring compounds, the borate minerals.",
+    "source": "https://en.wikipedia.org/wiki/Boron"
+  },
+  {
+    "atomic_number": 6,
+    "symbol": "C",
+    "name": "Carbon",
+    "atomic_mass": 12.011,
+    "period": 2,
+    "group": 14,
+    "category": "nonmetal",
+    "block": "p",
+    "protons": 6,
+    "electrons": 6,
+    "neutrons": 6,
+    "electron_configuration": "1s2 2s2 2p2",
+    "shell_distribution": [
+      2,
+      4
+    ],
+    "representative_isotope": 12,
+    "isotopes": [
+      {
+        "mass_number": 12,
+        "abundance": 98.94
+      },
+      {
+        "mass_number": 13,
+        "abundance": 1.0599999999999998
+      },
+      {
+        "mass_number": 14,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 2.55,
+    "atomic_radius": 76.0,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": 1.821,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Carbon (from Latin:carbo \"coal\") is a chemical element with symbol C and atomic number 6. On the periodic table, it is the first (row 2) of six elements in column (group) 14, which have in common the composition of their outer electron shell. It is nonmetallic and tetravalent—making four electrons available to form covalent chemical bonds.",
+    "source": "https://en.wikipedia.org/wiki/Carbon"
+  },
+  {
+    "atomic_number": 7,
+    "symbol": "N",
+    "name": "Nitrogen",
+    "atomic_mass": 14.007,
+    "period": 2,
+    "group": 15,
+    "category": "nonmetal",
+    "block": "p",
+    "protons": 7,
+    "electrons": 7,
+    "neutrons": 7,
+    "electron_configuration": "1s2 2s2 2p3",
+    "shell_distribution": [
+      2,
+      5
+    ],
+    "representative_isotope": 14,
+    "isotopes": [
+      {
+        "mass_number": 14,
+        "abundance": 99.6337
+      },
+      {
+        "mass_number": 15,
+        "abundance": 0.3663
+      }
+    ],
+    "electronegativity": 3.04,
+    "atomic_radius": 71.0,
+    "melting_point": 63.15,
+    "boiling_point": 77.355,
+    "density": 0.001251,
+    "state": "gas",
+    "discovery_year": 1772,
+    "description": "Nitrogen is a chemical element with symbol N and atomic number 7. It is the lightest pnictogen and at room temperature, it is a transparent, odorless diatomic gas. Nitrogen is a common element in the universe, estimated at about seventh in total abundance in the Milky Way and the Solar System.",
+    "source": "https://en.wikipedia.org/wiki/Nitrogen"
+  },
+  {
+    "atomic_number": 8,
+    "symbol": "O",
+    "name": "Oxygen",
+    "atomic_mass": 15.999,
+    "period": 2,
+    "group": 16,
+    "category": "nonmetal",
+    "block": "p",
+    "protons": 8,
+    "electrons": 8,
+    "neutrons": 8,
+    "electron_configuration": "1s2 2s2 2p4",
+    "shell_distribution": [
+      2,
+      6
+    ],
+    "representative_isotope": 16,
+    "isotopes": [
+      {
+        "mass_number": 16,
+        "abundance": 99.75714963572446
+      },
+      {
+        "mass_number": 17,
+        "abundance": 0.03835005752508629
+      },
+      {
+        "mass_number": 18,
+        "abundance": 0.2045003067504601
+      }
+    ],
+    "electronegativity": 3.44,
+    "atomic_radius": 66.0,
+    "melting_point": 54.36,
+    "boiling_point": 90.188,
+    "density": 0.0014290000000000001,
+    "state": "gas",
+    "discovery_year": 1774,
+    "description": "Oxygen is a chemical element with symbol O and atomic number 8. It is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds (notably oxides) with most elements. By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium.",
+    "source": "https://en.wikipedia.org/wiki/Oxygen"
+  },
+  {
+    "atomic_number": 9,
+    "symbol": "F",
+    "name": "Fluorine",
+    "atomic_mass": 18.9984031636,
+    "period": 2,
+    "group": 17,
+    "category": "halogen",
+    "block": "p",
+    "protons": 9,
+    "electrons": 9,
+    "neutrons": 10,
+    "electron_configuration": "1s2 2s2 2p5",
+    "shell_distribution": [
+      2,
+      7
+    ],
+    "representative_isotope": 19,
+    "isotopes": [
+      {
+        "mass_number": 19,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 3.98,
+    "atomic_radius": 57.0,
+    "melting_point": 53.48,
+    "boiling_point": 85.03,
+    "density": 0.001696,
+    "state": "gas",
+    "discovery_year": 1886,
+    "description": "Fluorine is a chemical element with symbol F and atomic number 9. It is the lightest halogen and exists as a highly toxic pale yellow diatomic gas at standard conditions. As the most electronegative element, it is extremely reactive:almost all other elements, including some noble gases, form compounds with fluorine.",
+    "source": "https://en.wikipedia.org/wiki/Fluorine"
+  },
+  {
+    "atomic_number": 10,
+    "symbol": "Ne",
+    "name": "Neon",
+    "atomic_mass": 20.17976,
+    "period": 2,
+    "group": 18,
+    "category": "noble gas",
+    "block": "p",
+    "protons": 10,
+    "electrons": 10,
+    "neutrons": 10,
+    "electron_configuration": "1s2 2s2 2p6",
+    "shell_distribution": [
+      2,
+      8
+    ],
+    "representative_isotope": 20,
+    "isotopes": [
+      {
+        "mass_number": 20,
+        "abundance": 90.48
+      },
+      {
+        "mass_number": 21,
+        "abundance": 0.27
+      },
+      {
+        "mass_number": 22,
+        "abundance": 9.25
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": 58.0,
+    "melting_point": 24.56,
+    "boiling_point": 27.104,
+    "density": 0.0009002,
+    "state": "gas",
+    "discovery_year": 1898,
+    "description": "Neon is a chemical element with symbol Ne and atomic number 10. It is in group 18 (noble gases) of the periodic table. Neon is a colorless, odorless, inert monatomic gas under standard conditions, with about two-thirds the density of air.",
+    "source": "https://en.wikipedia.org/wiki/Neon"
+  },
+  {
+    "atomic_number": 11,
+    "symbol": "Na",
+    "name": "Sodium",
+    "atomic_mass": 22.989769282,
+    "period": 3,
+    "group": 1,
+    "category": "alkali metal",
+    "block": "s",
+    "protons": 11,
+    "electrons": 11,
+    "neutrons": 12,
+    "electron_configuration": "1s2 2s2 2p6 3s1",
+    "shell_distribution": [
+      2,
+      8,
+      1
+    ],
+    "representative_isotope": 23,
+    "isotopes": [
+      {
+        "mass_number": 23,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 0.93,
+    "atomic_radius": 166.0,
+    "melting_point": 370.944,
+    "boiling_point": 1156.09,
+    "density": 0.968,
+    "state": "solid",
+    "discovery_year": 1807,
+    "description": "Sodium /ˈsoʊdiəm/ is a chemical element with symbol Na (from Ancient Greek Νάτριο) and atomic number 11. It is a soft, silver-white, highly reactive metal. In the Periodic table it is in column 1 (alkali metals), and shares with the other six elements in that column that it has a single electron in its outer shell, which it readily donates, creating a positively charged atom - a cation.",
+    "source": "https://en.wikipedia.org/wiki/Sodium"
+  },
+  {
+    "atomic_number": 12,
+    "symbol": "Mg",
+    "name": "Magnesium",
+    "atomic_mass": 24.305,
+    "period": 3,
+    "group": 2,
+    "category": "alkaline earth metal",
+    "block": "s",
+    "protons": 12,
+    "electrons": 12,
+    "neutrons": 12,
+    "electron_configuration": "1s2 2s2 2p6 3s2",
+    "shell_distribution": [
+      2,
+      8,
+      2
+    ],
+    "representative_isotope": 24,
+    "isotopes": [
+      {
+        "mass_number": 24,
+        "abundance": 78.96421035789642
+      },
+      {
+        "mass_number": 25,
+        "abundance": 10.01089989100109
+      },
+      {
+        "mass_number": 26,
+        "abundance": 11.024889751102489
+      }
+    ],
+    "electronegativity": 1.31,
+    "atomic_radius": 141.0,
+    "melting_point": 923,
+    "boiling_point": 1363,
+    "density": 1.738,
+    "state": "solid",
+    "discovery_year": 1755,
+    "description": "Magnesium is a chemical element with symbol Mg and atomic number 12. It is a shiny gray solid which bears a close physical resemblance to the other five elements in the second column (Group 2, or alkaline earth metals) of the periodic table:they each have the same electron configuration in their outer electron shell producing a similar crystal structure. Magnesium is the ninth most abundant element in the universe.",
+    "source": "https://en.wikipedia.org/wiki/Magnesium"
+  },
+  {
+    "atomic_number": 13,
+    "symbol": "Al",
+    "name": "Aluminium",
+    "atomic_mass": 26.98153857,
+    "period": 3,
+    "group": 13,
+    "category": "post-transition metal",
+    "block": "p",
+    "protons": 13,
+    "electrons": 13,
+    "neutrons": 14,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p1",
+    "shell_distribution": [
+      2,
+      8,
+      3
+    ],
+    "representative_isotope": 27,
+    "isotopes": [
+      {
+        "mass_number": 27,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 1.61,
+    "atomic_radius": 121.0,
+    "melting_point": 933.47,
+    "boiling_point": 2743,
+    "density": 2.7,
+    "state": "solid",
+    "discovery_year": 1825,
+    "description": "Aluminium (or aluminum; see different endings) is a chemical element in the boron group with symbol Al and atomic number 13. It is a silvery-white, soft, nonmagnetic, ductile metal. Aluminium is the third most abundant element (after oxygen and silicon), and the most abundant metal, in the Earth's crust.",
+    "source": "https://en.wikipedia.org/wiki/Aluminium"
+  },
+  {
+    "atomic_number": 14,
+    "symbol": "Si",
+    "name": "Silicon",
+    "atomic_mass": 28.085,
+    "period": 3,
+    "group": 14,
+    "category": "metalloid",
+    "block": "p",
+    "protons": 14,
+    "electrons": 14,
+    "neutrons": 14,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p2",
+    "shell_distribution": [
+      2,
+      8,
+      4
+    ],
+    "representative_isotope": 28,
+    "isotopes": [
+      {
+        "mass_number": 28,
+        "abundance": 92.2545
+      },
+      {
+        "mass_number": 29,
+        "abundance": 4.672
+      },
+      {
+        "mass_number": 30,
+        "abundance": 3.0734999999999997
+      }
+    ],
+    "electronegativity": 1.9,
+    "atomic_radius": 111.0,
+    "melting_point": 1687,
+    "boiling_point": 3538,
+    "density": 2.329,
+    "state": "solid",
+    "discovery_year": 1824,
+    "description": "Silicon is a chemical element with symbol Si and atomic number 14. It is a tetravalent metalloid, more reactive than germanium, the metalloid directly below it in the table. Controversy about silicon's character dates to its discovery.",
+    "source": "https://en.wikipedia.org/wiki/Silicon"
+  },
+  {
+    "atomic_number": 15,
+    "symbol": "P",
+    "name": "Phosphorus",
+    "atomic_mass": 30.9737619985,
+    "period": 3,
+    "group": 15,
+    "category": "nonmetal",
+    "block": "p",
+    "protons": 15,
+    "electrons": 15,
+    "neutrons": 16,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p3",
+    "shell_distribution": [
+      2,
+      8,
+      5
+    ],
+    "representative_isotope": 31,
+    "isotopes": [
+      {
+        "mass_number": 31,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 2.19,
+    "atomic_radius": 107.0,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": 1.823,
+    "state": "solid",
+    "discovery_year": 1669,
+    "description": "Phosphorus is a chemical element with symbol P and atomic number 15. As an element, phosphorus exists in two major forms—white phosphorus and red phosphorus—but due to its high reactivity, phosphorus is never found as a free element on Earth. Instead phosphorus-containing minerals are almost always present in their maximally oxidised state, as inorganic phosphate rocks.",
+    "source": "https://en.wikipedia.org/wiki/Phosphorus"
+  },
+  {
+    "atomic_number": 16,
+    "symbol": "S",
+    "name": "Sulfur",
+    "atomic_mass": 32.06,
+    "period": 3,
+    "group": 16,
+    "category": "nonmetal",
+    "block": "p",
+    "protons": 16,
+    "electrons": 16,
+    "neutrons": 16,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p4",
+    "shell_distribution": [
+      2,
+      8,
+      6
+    ],
+    "representative_isotope": 32,
+    "isotopes": [
+      {
+        "mass_number": 32,
+        "abundance": 94.855881064626
+      },
+      {
+        "mass_number": 33,
+        "abundance": 0.7630473089331539
+      },
+      {
+        "mass_number": 34,
+        "abundance": 4.3652706467801
+      },
+      {
+        "mass_number": 36,
+        "abundance": 0.015800979660738963
+      }
+    ],
+    "electronegativity": 2.58,
+    "atomic_radius": 105.0,
+    "melting_point": 388.36,
+    "boiling_point": 717.8,
+    "density": 2.07,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Sulfur or sulphur (see spelling differences) is a chemical element with symbol S and atomic number 16. It is an abundant, multivalent non-metal. Under normal conditions, sulfur atoms form cyclic octatomic molecules with chemical formula S8.",
+    "source": "https://en.wikipedia.org/wiki/Sulfur"
+  },
+  {
+    "atomic_number": 17,
+    "symbol": "Cl",
+    "name": "Chlorine",
+    "atomic_mass": 35.45,
+    "period": 3,
+    "group": 17,
+    "category": "halogen",
+    "block": "p",
+    "protons": 17,
+    "electrons": 17,
+    "neutrons": 18,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p5",
+    "shell_distribution": [
+      2,
+      8,
+      7
+    ],
+    "representative_isotope": 35,
+    "isotopes": [
+      {
+        "mass_number": 35,
+        "abundance": 75.8
+      },
+      {
+        "mass_number": 37,
+        "abundance": 24.2
+      }
+    ],
+    "electronegativity": 3.16,
+    "atomic_radius": 102.0,
+    "melting_point": 171.6,
+    "boiling_point": 239.11,
+    "density": 0.0032,
+    "state": "gas",
+    "discovery_year": null,
+    "description": "Chlorine is a chemical element with symbol Cl and atomic number 17. It also has a relative atomic mass of 35.5. Chlorine is in the halogen group (17) and is the second lightest halogen following fluorine.",
+    "source": "https://en.wikipedia.org/wiki/Chlorine"
+  },
+  {
+    "atomic_number": 18,
+    "symbol": "Ar",
+    "name": "Argon",
+    "atomic_mass": 39.9481,
+    "period": 3,
+    "group": 18,
+    "category": "noble gas",
+    "block": "p",
+    "protons": 18,
+    "electrons": 18,
+    "neutrons": 22,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6",
+    "shell_distribution": [
+      2,
+      8,
+      8
+    ],
+    "representative_isotope": 40,
+    "isotopes": [
+      {
+        "mass_number": 36,
+        "abundance": 0.33360999999999996
+      },
+      {
+        "mass_number": 38,
+        "abundance": 0.06289
+      },
+      {
+        "mass_number": 40,
+        "abundance": 99.6035
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": 106.0,
+    "melting_point": 83.81,
+    "boiling_point": 87.302,
+    "density": 0.001784,
+    "state": "gas",
+    "discovery_year": null,
+    "description": "Argon is a chemical element with symbol Ar and atomic number 18. It is in group 18 of the periodic table and is a noble gas. Argon is the third most common gas in the Earth's atmosphere, at 0.934% (9,340 ppmv), making it over twice as abundant as the next most common atmospheric gas, water vapor (which averages about 4000 ppmv, but varies greatly), and 23 times as abundant as the next most common non-condensing atmospheric gas, carbon dioxide (400 ppmv), and more than 500 times as abundant as the next most common noble gas, neon (18 ppmv).",
+    "source": "https://en.wikipedia.org/wiki/Argon"
+  },
+  {
+    "atomic_number": 19,
+    "symbol": "K",
+    "name": "Potassium",
+    "atomic_mass": 39.09831,
+    "period": 4,
+    "group": 1,
+    "category": "alkali metal",
+    "block": "s",
+    "protons": 19,
+    "electrons": 19,
+    "neutrons": 20,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s1",
+    "shell_distribution": [
+      2,
+      8,
+      8,
+      1
+    ],
+    "representative_isotope": 39,
+    "isotopes": [
+      {
+        "mass_number": 39,
+        "abundance": 93.2581
+      },
+      {
+        "mass_number": 40,
+        "abundance": 0.0117
+      },
+      {
+        "mass_number": 41,
+        "abundance": 6.7302
+      }
+    ],
+    "electronegativity": 0.82,
+    "atomic_radius": 203.0,
+    "melting_point": 336.7,
+    "boiling_point": 1032,
+    "density": 0.862,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Potassium is a chemical element with symbol K (derived from Neo-Latin, kalium) and atomic number 19. It was first isolated from potash, the ashes of plants, from which its name is derived. In the Periodic table, potassium is one of seven elements in column (group) 1 (alkali metals):they all have a single valence electron in their outer electron shell, which they readily give up to create an atom with a positive charge - a cation, and combine with anions to form salts.",
+    "source": "https://en.wikipedia.org/wiki/Potassium"
+  },
+  {
+    "atomic_number": 20,
+    "symbol": "Ca",
+    "name": "Calcium",
+    "atomic_mass": 40.0784,
+    "period": 4,
+    "group": 2,
+    "category": "alkaline earth metal",
+    "block": "s",
+    "protons": 20,
+    "electrons": 20,
+    "neutrons": 20,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2",
+    "shell_distribution": [
+      2,
+      8,
+      8,
+      2
+    ],
+    "representative_isotope": 40,
+    "isotopes": [
+      {
+        "mass_number": 40,
+        "abundance": 96.941
+      },
+      {
+        "mass_number": 42,
+        "abundance": 0.647
+      },
+      {
+        "mass_number": 43,
+        "abundance": 0.135
+      },
+      {
+        "mass_number": 44,
+        "abundance": 2.086
+      },
+      {
+        "mass_number": 46,
+        "abundance": 0.004
+      },
+      {
+        "mass_number": 48,
+        "abundance": 0.187
+      }
+    ],
+    "electronegativity": 1,
+    "atomic_radius": 176.0,
+    "melting_point": 1115,
+    "boiling_point": 1757,
+    "density": 1.55,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Calcium is a chemical element with symbol Ca and atomic number 20. Calcium is a soft gray alkaline earth metal, fifth-most-abundant element by mass in the Earth's crust. The ion Ca2+ is also the fifth-most-abundant dissolved ion in seawater by both molarity and mass, after sodium, chloride, magnesium, and sulfate.",
+    "source": "https://en.wikipedia.org/wiki/Calcium"
+  },
+  {
+    "atomic_number": 21,
+    "symbol": "Sc",
+    "name": "Scandium",
+    "atomic_mass": 44.9559085,
+    "period": 4,
+    "group": 3,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 21,
+    "electrons": 21,
+    "neutrons": 24,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d1",
+    "shell_distribution": [
+      2,
+      8,
+      9,
+      2
+    ],
+    "representative_isotope": 45,
+    "isotopes": [
+      {
+        "mass_number": 45,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 1.36,
+    "atomic_radius": 170.0,
+    "melting_point": 1814,
+    "boiling_point": 3109,
+    "density": 2.985,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Scandium is a chemical element with symbol Sc and atomic number 21. A silvery-white metallic d-block element, it has historically been sometimes classified as a rare earth element, together with yttrium and the lanthanoids. It was discovered in 1879 by spectral analysis of the minerals euxenite and gadolinite from Scandinavia.",
+    "source": "https://en.wikipedia.org/wiki/Scandium"
+  },
+  {
+    "atomic_number": 22,
+    "symbol": "Ti",
+    "name": "Titanium",
+    "atomic_mass": 47.8671,
+    "period": 4,
+    "group": 4,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 22,
+    "electrons": 22,
+    "neutrons": 26,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d2",
+    "shell_distribution": [
+      2,
+      8,
+      10,
+      2
+    ],
+    "representative_isotope": 48,
+    "isotopes": [
+      {
+        "mass_number": 46,
+        "abundance": 8.25
+      },
+      {
+        "mass_number": 47,
+        "abundance": 7.4399999999999995
+      },
+      {
+        "mass_number": 48,
+        "abundance": 73.72
+      },
+      {
+        "mass_number": 49,
+        "abundance": 5.41
+      },
+      {
+        "mass_number": 50,
+        "abundance": 5.18
+      }
+    ],
+    "electronegativity": 1.54,
+    "atomic_radius": 160.0,
+    "melting_point": 1941,
+    "boiling_point": 3560,
+    "density": 4.506,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Titanium is a chemical element with symbol Ti and atomic number 22. It is a lustrous transition metal with a silver color, low density and high strength. It is highly resistant to corrosion in sea water, aqua regia and chlorine.",
+    "source": "https://en.wikipedia.org/wiki/Titanium"
+  },
+  {
+    "atomic_number": 23,
+    "symbol": "V",
+    "name": "Vanadium",
+    "atomic_mass": 50.94151,
+    "period": 4,
+    "group": 5,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 23,
+    "electrons": 23,
+    "neutrons": 28,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d3",
+    "shell_distribution": [
+      2,
+      8,
+      11,
+      2
+    ],
+    "representative_isotope": 51,
+    "isotopes": [
+      {
+        "mass_number": 50,
+        "abundance": 0.25
+      },
+      {
+        "mass_number": 51,
+        "abundance": 99.75
+      }
+    ],
+    "electronegativity": 1.63,
+    "atomic_radius": 153.0,
+    "melting_point": 2183,
+    "boiling_point": 3680,
+    "density": 6.0,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Vanadium is a chemical element with symbol V and atomic number 23. It is a hard, silvery grey, ductile and malleable transition metal. The element is found only in chemically combined form in nature, but once isolated artificially, the formation of an oxide layer stabilizes the free metal somewhat against further oxidation.",
+    "source": "https://en.wikipedia.org/wiki/Vanadium"
+  },
+  {
+    "atomic_number": 24,
+    "symbol": "Cr",
+    "name": "Chromium",
+    "atomic_mass": 51.99616,
+    "period": 4,
+    "group": 6,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 24,
+    "electrons": 24,
+    "neutrons": 28,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s1 3d5",
+    "shell_distribution": [
+      2,
+      8,
+      13,
+      1
+    ],
+    "representative_isotope": 52,
+    "isotopes": [
+      {
+        "mass_number": 50,
+        "abundance": 4.345000000000001
+      },
+      {
+        "mass_number": 52,
+        "abundance": 83.789
+      },
+      {
+        "mass_number": 53,
+        "abundance": 9.501
+      },
+      {
+        "mass_number": 54,
+        "abundance": 2.365
+      }
+    ],
+    "electronegativity": 1.66,
+    "atomic_radius": 139.0,
+    "melting_point": 2180,
+    "boiling_point": 2944,
+    "density": 7.19,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Chromium is a chemical element with symbol Cr and atomic number 24. It is the first element in Group 6. It is a steely-gray, lustrous, hard and brittle metal which takes a high polish, resists tarnishing, and has a high melting point.",
+    "source": "https://en.wikipedia.org/wiki/Chromium"
+  },
+  {
+    "atomic_number": 25,
+    "symbol": "Mn",
+    "name": "Manganese",
+    "atomic_mass": 54.9380443,
+    "period": 4,
+    "group": 7,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 25,
+    "electrons": 25,
+    "neutrons": 30,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d5",
+    "shell_distribution": [
+      2,
+      8,
+      13,
+      2
+    ],
+    "representative_isotope": 55,
+    "isotopes": [
+      {
+        "mass_number": 55,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 1.55,
+    "atomic_radius": 139.0,
+    "melting_point": 1519,
+    "boiling_point": 2334,
+    "density": 7.21,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Manganese is a chemical element with symbol Mn and atomic number 25. It is not found as a free element in nature; it is often found in combination with iron, and in many minerals. Manganese is a metal with important industrial metal alloy uses, particularly in stainless steels.",
+    "source": "https://en.wikipedia.org/wiki/Manganese"
+  },
+  {
+    "atomic_number": 26,
+    "symbol": "Fe",
+    "name": "Iron",
+    "atomic_mass": 55.8452,
+    "period": 4,
+    "group": 8,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 26,
+    "electrons": 26,
+    "neutrons": 30,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d6",
+    "shell_distribution": [
+      2,
+      8,
+      14,
+      2
+    ],
+    "representative_isotope": 56,
+    "isotopes": [
+      {
+        "mass_number": 54,
+        "abundance": 5.845000000000001
+      },
+      {
+        "mass_number": 56,
+        "abundance": 91.754
+      },
+      {
+        "mass_number": 57,
+        "abundance": 2.119
+      },
+      {
+        "mass_number": 58,
+        "abundance": 0.28200000000000003
+      }
+    ],
+    "electronegativity": 1.83,
+    "atomic_radius": 132.0,
+    "melting_point": 1811,
+    "boiling_point": 3134,
+    "density": 7.874,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Iron is a chemical element with symbol Fe (from Latin:ferrum) and atomic number 26. It is a metal in the first transition series. It is by mass the most common element on Earth, forming much of Earth's outer and inner core.",
+    "source": "https://en.wikipedia.org/wiki/Iron"
+  },
+  {
+    "atomic_number": 27,
+    "symbol": "Co",
+    "name": "Cobalt",
+    "atomic_mass": 58.9331944,
+    "period": 4,
+    "group": 9,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 27,
+    "electrons": 27,
+    "neutrons": 32,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d7",
+    "shell_distribution": [
+      2,
+      8,
+      15,
+      2
+    ],
+    "representative_isotope": 59,
+    "isotopes": [
+      {
+        "mass_number": 59,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 1.88,
+    "atomic_radius": 126.0,
+    "melting_point": 1768,
+    "boiling_point": 3200,
+    "density": 8.9,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Cobalt is a chemical element with symbol Co and atomic number 27. Like nickel, cobalt in the Earth's crust is found only in chemically combined form, save for small deposits found in alloys of natural meteoric iron. The free element, produced by reductive smelting, is a hard, lustrous, silver-gray metal.",
+    "source": "https://en.wikipedia.org/wiki/Cobalt"
+  },
+  {
+    "atomic_number": 28,
+    "symbol": "Ni",
+    "name": "Nickel",
+    "atomic_mass": 58.69344,
+    "period": 4,
+    "group": 10,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 28,
+    "electrons": 28,
+    "neutrons": 30,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d8",
+    "shell_distribution": [
+      2,
+      8,
+      16,
+      2
+    ],
+    "representative_isotope": 58,
+    "isotopes": [
+      {
+        "mass_number": 58,
+        "abundance": 68.0769
+      },
+      {
+        "mass_number": 60,
+        "abundance": 26.2231
+      },
+      {
+        "mass_number": 61,
+        "abundance": 1.1399
+      },
+      {
+        "mass_number": 62,
+        "abundance": 3.6345
+      },
+      {
+        "mass_number": 64,
+        "abundance": 0.9256
+      }
+    ],
+    "electronegativity": 1.91,
+    "atomic_radius": 124.0,
+    "melting_point": 1728,
+    "boiling_point": 3003,
+    "density": 8.908,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Nickel is a chemical element with symbol Ni and atomic number 28. It is a silvery-white lustrous metal with a slight golden tinge. Nickel belongs to the transition metals and is hard and ductile.",
+    "source": "https://en.wikipedia.org/wiki/Nickel"
+  },
+  {
+    "atomic_number": 29,
+    "symbol": "Cu",
+    "name": "Copper",
+    "atomic_mass": 63.5463,
+    "period": 4,
+    "group": 11,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 29,
+    "electrons": 29,
+    "neutrons": 34,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s1 3d10",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      1
+    ],
+    "representative_isotope": 63,
+    "isotopes": [
+      {
+        "mass_number": 63,
+        "abundance": 69.15
+      },
+      {
+        "mass_number": 65,
+        "abundance": 30.85
+      }
+    ],
+    "electronegativity": 1.9,
+    "atomic_radius": 132.0,
+    "melting_point": 1357.77,
+    "boiling_point": 2835,
+    "density": 8.96,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Copper is a chemical element with symbol Cu (from Latin:cuprum) and atomic number 29. It is a soft, malleable and ductile metal with very high thermal and electrical conductivity. A freshly exposed surface of pure copper has a reddish-orange color.",
+    "source": "https://en.wikipedia.org/wiki/Copper"
+  },
+  {
+    "atomic_number": 30,
+    "symbol": "Zn",
+    "name": "Zinc",
+    "atomic_mass": 65.382,
+    "period": 4,
+    "group": 12,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 30,
+    "electrons": 30,
+    "neutrons": 34,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      2
+    ],
+    "representative_isotope": 64,
+    "isotopes": [
+      {
+        "mass_number": 64,
+        "abundance": 49.17
+      },
+      {
+        "mass_number": 66,
+        "abundance": 27.73
+      },
+      {
+        "mass_number": 67,
+        "abundance": 4.04
+      },
+      {
+        "mass_number": 68,
+        "abundance": 18.45
+      },
+      {
+        "mass_number": 70,
+        "abundance": 0.61
+      }
+    ],
+    "electronegativity": 1.65,
+    "atomic_radius": 122.0,
+    "melting_point": 692.68,
+    "boiling_point": 1180,
+    "density": 7.14,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Zinc, in commerce also spelter, is a chemical element with symbol Zn and atomic number 30. It is the first element of group 12 of the periodic table. In some respects zinc is chemically similar to magnesium:its ion is of similar size and its only common oxidation state is +2.",
+    "source": "https://en.wikipedia.org/wiki/Zinc"
+  },
+  {
+    "atomic_number": 31,
+    "symbol": "Ga",
+    "name": "Gallium",
+    "atomic_mass": 69.7231,
+    "period": 4,
+    "group": 13,
+    "category": "post-transition metal",
+    "block": "p",
+    "protons": 31,
+    "electrons": 31,
+    "neutrons": 38,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      3
+    ],
+    "representative_isotope": 69,
+    "isotopes": [
+      {
+        "mass_number": 69,
+        "abundance": 60.108
+      },
+      {
+        "mass_number": 71,
+        "abundance": 39.892
+      }
+    ],
+    "electronegativity": 1.81,
+    "atomic_radius": 122.0,
+    "melting_point": 302.9146,
+    "boiling_point": 2673,
+    "density": 5.91,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Gallium is a chemical element with symbol Ga and atomic number 31. Elemental gallium does not occur in free form in nature, but as the gallium(III) compounds that are in trace amounts in zinc ores and in bauxite. Gallium is a soft, silvery metal, and elemental gallium is a brittle solid at low temperatures, and melts at 29.76 °C (85.57 °F) (slightly above room temperature).",
+    "source": "https://en.wikipedia.org/wiki/Gallium"
+  },
+  {
+    "atomic_number": 32,
+    "symbol": "Ge",
+    "name": "Germanium",
+    "atomic_mass": 72.6308,
+    "period": 4,
+    "group": 14,
+    "category": "metalloid",
+    "block": "p",
+    "protons": 32,
+    "electrons": 32,
+    "neutrons": 42,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p2",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      4
+    ],
+    "representative_isotope": 74,
+    "isotopes": [
+      {
+        "mass_number": 70,
+        "abundance": 20.52
+      },
+      {
+        "mass_number": 72,
+        "abundance": 27.450000000000003
+      },
+      {
+        "mass_number": 73,
+        "abundance": 7.76
+      },
+      {
+        "mass_number": 74,
+        "abundance": 36.52
+      },
+      {
+        "mass_number": 76,
+        "abundance": 7.75
+      }
+    ],
+    "electronegativity": 2.01,
+    "atomic_radius": 120.0,
+    "melting_point": 1211.4,
+    "boiling_point": 3106,
+    "density": 5.323,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Germanium is a chemical element with symbol Ge and atomic number 32. It is a lustrous, hard, grayish-white metalloid in the carbon group, chemically similar to its group neighbors tin and silicon. Purified germanium is a semiconductor, with an appearance most similar to elemental silicon.",
+    "source": "https://en.wikipedia.org/wiki/Germanium"
+  },
+  {
+    "atomic_number": 33,
+    "symbol": "As",
+    "name": "Arsenic",
+    "atomic_mass": 74.9215956,
+    "period": 4,
+    "group": 15,
+    "category": "metalloid",
+    "block": "p",
+    "protons": 33,
+    "electrons": 33,
+    "neutrons": 42,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p3",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      5
+    ],
+    "representative_isotope": 75,
+    "isotopes": [
+      {
+        "mass_number": 75,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 2.18,
+    "atomic_radius": 119.0,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": 5.727,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Arsenic is a chemical element with symbol As and atomic number 33. Arsenic occurs in many minerals, usually in conjunction with sulfur and metals, and also as a pure elemental crystal. Arsenic is a metalloid.",
+    "source": "https://en.wikipedia.org/wiki/Arsenic"
+  },
+  {
+    "atomic_number": 34,
+    "symbol": "Se",
+    "name": "Selenium",
+    "atomic_mass": 78.9718,
+    "period": 4,
+    "group": 16,
+    "category": "nonmetal",
+    "block": "p",
+    "protons": 34,
+    "electrons": 34,
+    "neutrons": 46,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p4",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      6
+    ],
+    "representative_isotope": 80,
+    "isotopes": [
+      {
+        "mass_number": 74,
+        "abundance": 0.86
+      },
+      {
+        "mass_number": 76,
+        "abundance": 9.229999999999999
+      },
+      {
+        "mass_number": 77,
+        "abundance": 7.6
+      },
+      {
+        "mass_number": 78,
+        "abundance": 23.69
+      },
+      {
+        "mass_number": 80,
+        "abundance": 49.8
+      },
+      {
+        "mass_number": 82,
+        "abundance": 8.82
+      }
+    ],
+    "electronegativity": 2.55,
+    "atomic_radius": 120.0,
+    "melting_point": 494,
+    "boiling_point": 958,
+    "density": 4.81,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Selenium is a chemical element with symbol Se and atomic number 34. It is a nonmetal with properties that are intermediate between those of its periodic table column-adjacent chalcogen elements sulfur and tellurium. It rarely occurs in its elemental state in nature, or as pure ore compounds.",
+    "source": "https://en.wikipedia.org/wiki/Selenium"
+  },
+  {
+    "atomic_number": 35,
+    "symbol": "Br",
+    "name": "Bromine",
+    "atomic_mass": 79.904,
+    "period": 4,
+    "group": 17,
+    "category": "halogen",
+    "block": "p",
+    "protons": 35,
+    "electrons": 35,
+    "neutrons": 44,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p5",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      7
+    ],
+    "representative_isotope": 79,
+    "isotopes": [
+      {
+        "mass_number": 79,
+        "abundance": 50.64999999999999
+      },
+      {
+        "mass_number": 81,
+        "abundance": 49.35
+      }
+    ],
+    "electronegativity": 2.96,
+    "atomic_radius": 120.0,
+    "melting_point": 265.8,
+    "boiling_point": 332,
+    "density": 3.1028,
+    "state": "liquid",
+    "discovery_year": null,
+    "description": "Bromine (from Ancient Greek:βρῶμος, brómos, meaning \"stench\") is a chemical element with symbol Br, and atomic number 35. It is a halogen. The element was isolated independently by two chemists, Carl Jacob Löwig and Antoine Jerome Balard, in 1825–1826.",
+    "source": "https://en.wikipedia.org/wiki/Bromine"
+  },
+  {
+    "atomic_number": 36,
+    "symbol": "Kr",
+    "name": "Krypton",
+    "atomic_mass": 83.7982,
+    "period": 4,
+    "group": 18,
+    "category": "noble gas",
+    "block": "p",
+    "protons": 36,
+    "electrons": 36,
+    "neutrons": 48,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      8
+    ],
+    "representative_isotope": 84,
+    "isotopes": [
+      {
+        "mass_number": 78,
+        "abundance": 0.35500000000000004
+      },
+      {
+        "mass_number": 80,
+        "abundance": 2.286
+      },
+      {
+        "mass_number": 82,
+        "abundance": 11.593
+      },
+      {
+        "mass_number": 83,
+        "abundance": 11.5
+      },
+      {
+        "mass_number": 84,
+        "abundance": 56.987
+      },
+      {
+        "mass_number": 86,
+        "abundance": 17.279
+      }
+    ],
+    "electronegativity": 3,
+    "atomic_radius": 116.0,
+    "melting_point": 115.78,
+    "boiling_point": 119.93,
+    "density": 0.003749,
+    "state": "gas",
+    "discovery_year": null,
+    "description": "Krypton (from Greek:κρυπτός kryptos \"the hidden one\") is a chemical element with symbol Kr and atomic number 36. It is a member of group 18 (noble gases) elements. A colorless, odorless, tasteless noble gas, krypton occurs in trace amounts in the atmosphere, is isolated by fractionally distilling liquefied air, and is often used with other rare gases in fluorescent lamps.",
+    "source": "https://en.wikipedia.org/wiki/Krypton"
+  },
+  {
+    "atomic_number": 37,
+    "symbol": "Rb",
+    "name": "Rubidium",
+    "atomic_mass": 85.46783,
+    "period": 5,
+    "group": 1,
+    "category": "alkali metal",
+    "block": "s",
+    "protons": 37,
+    "electrons": 37,
+    "neutrons": 48,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      8,
+      1
+    ],
+    "representative_isotope": 85,
+    "isotopes": [
+      {
+        "mass_number": 85,
+        "abundance": 72.17
+      },
+      {
+        "mass_number": 87,
+        "abundance": 27.83
+      }
+    ],
+    "electronegativity": 0.82,
+    "atomic_radius": 220.0,
+    "melting_point": 312.45,
+    "boiling_point": 961,
+    "density": 1.532,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Rubidium is a chemical element with symbol Rb and atomic number 37. Rubidium is a soft, silvery-white metallic element of the alkali metal group, with an atomic mass of 85.4678. Elemental rubidium is highly reactive, with properties similar to those of other alkali metals, such as very rapid oxidation in air.",
+    "source": "https://en.wikipedia.org/wiki/Rubidium"
+  },
+  {
+    "atomic_number": 38,
+    "symbol": "Sr",
+    "name": "Strontium",
+    "atomic_mass": 87.621,
+    "period": 5,
+    "group": 2,
+    "category": "alkaline earth metal",
+    "block": "s",
+    "protons": 38,
+    "electrons": 38,
+    "neutrons": 50,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      8,
+      2
+    ],
+    "representative_isotope": 88,
+    "isotopes": [
+      {
+        "mass_number": 84,
+        "abundance": 0.5599999999999999
+      },
+      {
+        "mass_number": 86,
+        "abundance": 9.86
+      },
+      {
+        "mass_number": 87,
+        "abundance": 7.000000000000001
+      },
+      {
+        "mass_number": 88,
+        "abundance": 82.58
+      }
+    ],
+    "electronegativity": 0.95,
+    "atomic_radius": 195.0,
+    "melting_point": 1050,
+    "boiling_point": 1650,
+    "density": 2.64,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Strontium is a chemical element with symbol Sr and atomic number 38. An alkaline earth metal, strontium is a soft silver-white or yellowish metallic element that is highly reactive chemically. The metal turns yellow when it is exposed to air.",
+    "source": "https://en.wikipedia.org/wiki/Strontium"
+  },
+  {
+    "atomic_number": 39,
+    "symbol": "Y",
+    "name": "Yttrium",
+    "atomic_mass": 88.905842,
+    "period": 5,
+    "group": 3,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 39,
+    "electrons": 39,
+    "neutrons": 50,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      9,
+      2
+    ],
+    "representative_isotope": 89,
+    "isotopes": [
+      {
+        "mass_number": 89,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 1.22,
+    "atomic_radius": 190.0,
+    "melting_point": 1799,
+    "boiling_point": 3203,
+    "density": 4.472,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Yttrium is a chemical element with symbol Y and atomic number 39. It is a silvery-metallic transition metal chemically similar to the lanthanides and it has often been classified as a \"rare earth element\". Yttrium is almost always found combined with the lanthanides in rare earth minerals and is never found in nature as a free element.",
+    "source": "https://en.wikipedia.org/wiki/Yttrium"
+  },
+  {
+    "atomic_number": 40,
+    "symbol": "Zr",
+    "name": "Zirconium",
+    "atomic_mass": 91.2242,
+    "period": 5,
+    "group": 4,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 40,
+    "electrons": 40,
+    "neutrons": 50,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d2",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      10,
+      2
+    ],
+    "representative_isotope": 90,
+    "isotopes": [
+      {
+        "mass_number": 90,
+        "abundance": 51.449999999999996
+      },
+      {
+        "mass_number": 91,
+        "abundance": 11.219999999999999
+      },
+      {
+        "mass_number": 92,
+        "abundance": 17.150000000000002
+      },
+      {
+        "mass_number": 94,
+        "abundance": 17.380000000000003
+      },
+      {
+        "mass_number": 96,
+        "abundance": 2.8000000000000003
+      }
+    ],
+    "electronegativity": 1.33,
+    "atomic_radius": 175.0,
+    "melting_point": 2128,
+    "boiling_point": 4650,
+    "density": 6.52,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Zirconium is a chemical element with symbol Zr and atomic number 40. The name of zirconium is taken from the name of the mineral zircon, the most important source of zirconium. The word zircon comes from the Persian word zargun زرگون, meaning \"gold-colored\".",
+    "source": "https://en.wikipedia.org/wiki/Zirconium"
+  },
+  {
+    "atomic_number": 41,
+    "symbol": "Nb",
+    "name": "Niobium",
+    "atomic_mass": 92.906372,
+    "period": 5,
+    "group": 5,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 41,
+    "electrons": 41,
+    "neutrons": 52,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d4",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      12,
+      1
+    ],
+    "representative_isotope": 93,
+    "isotopes": [
+      {
+        "mass_number": 93,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 1.6,
+    "atomic_radius": 164.0,
+    "melting_point": 2750,
+    "boiling_point": 5017,
+    "density": 8.57,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Niobium, formerly columbium, is a chemical element with symbol Nb (formerly Cb) and atomic number 41. It is a soft, grey, ductile transition metal, which is often found in the pyrochlore mineral, the main commercial source for niobium, and columbite. The name comes from Greek mythology:Niobe, daughter of Tantalus since it is so similar to tantalum.",
+    "source": "https://en.wikipedia.org/wiki/Niobium"
+  },
+  {
+    "atomic_number": 42,
+    "symbol": "Mo",
+    "name": "Molybdenum",
+    "atomic_mass": 95.951,
+    "period": 5,
+    "group": 6,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 42,
+    "electrons": 42,
+    "neutrons": 56,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d5",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      13,
+      1
+    ],
+    "representative_isotope": 98,
+    "isotopes": [
+      {
+        "mass_number": 92,
+        "abundance": 14.649000000000001
+      },
+      {
+        "mass_number": 94,
+        "abundance": 9.187
+      },
+      {
+        "mass_number": 95,
+        "abundance": 15.873000000000001
+      },
+      {
+        "mass_number": 96,
+        "abundance": 16.673
+      },
+      {
+        "mass_number": 97,
+        "abundance": 9.582
+      },
+      {
+        "mass_number": 98,
+        "abundance": 24.291999999999998
+      },
+      {
+        "mass_number": 100,
+        "abundance": 9.744
+      }
+    ],
+    "electronegativity": 2.16,
+    "atomic_radius": 154.0,
+    "melting_point": 2896,
+    "boiling_point": 4912,
+    "density": 10.28,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Molybdenum is a chemical element with symbol Mo and atomic number 42. The name is from Neo-Latin molybdaenum, from Ancient Greek Μόλυβδος molybdos, meaning lead, since its ores were confused with lead ores. Molybdenum minerals have been known throughout history, but the element was discovered (in the sense of differentiating it as a new entity from the mineral salts of other metals) in 1778 by Carl Wilhelm Scheele.",
+    "source": "https://en.wikipedia.org/wiki/Molybdenum"
+  },
+  {
+    "atomic_number": 43,
+    "symbol": "Tc",
+    "name": "Technetium",
+    "atomic_mass": 98,
+    "period": 5,
+    "group": 7,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 43,
+    "electrons": 43,
+    "neutrons": 55,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d5",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      13,
+      2
+    ],
+    "representative_isotope": 98,
+    "isotopes": [
+      {
+        "mass_number": 98,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 1.9,
+    "atomic_radius": 147.0,
+    "melting_point": 2430,
+    "boiling_point": 4538,
+    "density": 11.0,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Technetium (/tɛkˈniːʃiəm/) is a chemical element with symbol Tc and atomic number 43. It is the element with the lowest atomic number in the periodic table that has no stable isotopes:every form of it is radioactive. Nearly all technetium is produced synthetically, and only minute amounts are found in nature.",
+    "source": "https://en.wikipedia.org/wiki/Technetium"
+  },
+  {
+    "atomic_number": 44,
+    "symbol": "Ru",
+    "name": "Ruthenium",
+    "atomic_mass": 101.072,
+    "period": 5,
+    "group": 8,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 44,
+    "electrons": 44,
+    "neutrons": 58,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d7",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      15,
+      1
+    ],
+    "representative_isotope": 102,
+    "isotopes": [
+      {
+        "mass_number": 96,
+        "abundance": 5.54
+      },
+      {
+        "mass_number": 98,
+        "abundance": 1.87
+      },
+      {
+        "mass_number": 99,
+        "abundance": 12.76
+      },
+      {
+        "mass_number": 100,
+        "abundance": 12.6
+      },
+      {
+        "mass_number": 101,
+        "abundance": 17.06
+      },
+      {
+        "mass_number": 102,
+        "abundance": 31.55
+      },
+      {
+        "mass_number": 104,
+        "abundance": 18.62
+      }
+    ],
+    "electronegativity": 2.2,
+    "atomic_radius": 146.0,
+    "melting_point": 2607,
+    "boiling_point": 4423,
+    "density": 12.45,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Ruthenium is a chemical element with symbol Ru and atomic number 44. It is a rare transition metal belonging to the platinum group of the periodic table. Like the other metals of the platinum group, ruthenium is inert to most other chemicals.",
+    "source": "https://en.wikipedia.org/wiki/Ruthenium"
+  },
+  {
+    "atomic_number": 45,
+    "symbol": "Rh",
+    "name": "Rhodium",
+    "atomic_mass": 102.905502,
+    "period": 5,
+    "group": 9,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 45,
+    "electrons": 45,
+    "neutrons": 58,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d8",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      16,
+      1
+    ],
+    "representative_isotope": 103,
+    "isotopes": [
+      {
+        "mass_number": 103,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 2.28,
+    "atomic_radius": 142.0,
+    "melting_point": 2237,
+    "boiling_point": 3968,
+    "density": 12.41,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Rhodium is a chemical element with symbol Rh and atomic number 45. It is a rare, silvery-white, hard, and chemically inert transition metal. It is a member of the platinum group.",
+    "source": "https://en.wikipedia.org/wiki/Rhodium"
+  },
+  {
+    "atomic_number": 46,
+    "symbol": "Pd",
+    "name": "Palladium",
+    "atomic_mass": 106.421,
+    "period": 5,
+    "group": 10,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 46,
+    "electrons": 46,
+    "neutrons": 60,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 4d10",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      18
+    ],
+    "representative_isotope": 106,
+    "isotopes": [
+      {
+        "mass_number": 102,
+        "abundance": 1.02
+      },
+      {
+        "mass_number": 104,
+        "abundance": 11.14
+      },
+      {
+        "mass_number": 105,
+        "abundance": 22.33
+      },
+      {
+        "mass_number": 106,
+        "abundance": 27.33
+      },
+      {
+        "mass_number": 108,
+        "abundance": 26.46
+      },
+      {
+        "mass_number": 110,
+        "abundance": 11.72
+      }
+    ],
+    "electronegativity": 2.2,
+    "atomic_radius": 139.0,
+    "melting_point": 1828.05,
+    "boiling_point": 3236,
+    "density": 12.023,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Palladium is a chemical element with symbol Pd and atomic number 46. It is a rare and lustrous silvery-white metal discovered in 1803 by William Hyde Wollaston. He named it after the asteroid Pallas, which was itself named after the epithet of the Greek goddess Athena, acquired by her when she slew Pallas.",
+    "source": "https://en.wikipedia.org/wiki/Palladium"
+  },
+  {
+    "atomic_number": 47,
+    "symbol": "Ag",
+    "name": "Silver",
+    "atomic_mass": 107.86822,
+    "period": 5,
+    "group": 11,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 47,
+    "electrons": 47,
+    "neutrons": 60,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d10",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      18,
+      1
+    ],
+    "representative_isotope": 107,
+    "isotopes": [
+      {
+        "mass_number": 107,
+        "abundance": 51.839
+      },
+      {
+        "mass_number": 109,
+        "abundance": 48.161
+      }
+    ],
+    "electronegativity": 1.93,
+    "atomic_radius": 145.0,
+    "melting_point": 1234.93,
+    "boiling_point": 2435,
+    "density": 10.49,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Silver is a chemical element with symbol Ag (Greek:άργυρος árguros, Latin:argentum, both from the Indo-European root *h₂erǵ- for \"grey\" or \"shining\") and atomic number 47. A soft, white, lustrous transition metal, it possesses the highest electrical conductivity, thermal conductivity and reflectivity of any metal. The metal occurs naturally in its pure, free form (native silver), as an alloy with gold and other metals, and in minerals such as argentite and chlorargyrite.",
+    "source": "https://en.wikipedia.org/wiki/Silver"
+  },
+  {
+    "atomic_number": 48,
+    "symbol": "Cd",
+    "name": "Cadmium",
+    "atomic_mass": 112.4144,
+    "period": 5,
+    "group": 12,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 48,
+    "electrons": 48,
+    "neutrons": 66,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      18,
+      2
+    ],
+    "representative_isotope": 114,
+    "isotopes": [
+      {
+        "mass_number": 106,
+        "abundance": 1.2449999999999999
+      },
+      {
+        "mass_number": 108,
+        "abundance": 0.8880000000000001
+      },
+      {
+        "mass_number": 110,
+        "abundance": 12.47
+      },
+      {
+        "mass_number": 111,
+        "abundance": 12.795000000000002
+      },
+      {
+        "mass_number": 112,
+        "abundance": 24.108999999999998
+      },
+      {
+        "mass_number": 113,
+        "abundance": 12.227
+      },
+      {
+        "mass_number": 114,
+        "abundance": 28.754
+      },
+      {
+        "mass_number": 116,
+        "abundance": 7.5120000000000005
+      }
+    ],
+    "electronegativity": 1.69,
+    "atomic_radius": 144.0,
+    "melting_point": 594.22,
+    "boiling_point": 1040,
+    "density": 8.65,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Cadmium is a chemical element with symbol Cd and atomic number 48. This soft, bluish-white metal is chemically similar to the two other stable metals in group 12, zinc and mercury. Like zinc, it prefers oxidation state +2 in most of its compounds and like mercury it shows a low melting point compared to transition metals.",
+    "source": "https://en.wikipedia.org/wiki/Cadmium"
+  },
+  {
+    "atomic_number": 49,
+    "symbol": "In",
+    "name": "Indium",
+    "atomic_mass": 114.8181,
+    "period": 5,
+    "group": 13,
+    "category": "post-transition metal",
+    "block": "p",
+    "protons": 49,
+    "electrons": 49,
+    "neutrons": 66,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      18,
+      3
+    ],
+    "representative_isotope": 115,
+    "isotopes": [
+      {
+        "mass_number": 113,
+        "abundance": 4.281
+      },
+      {
+        "mass_number": 115,
+        "abundance": 95.719
+      }
+    ],
+    "electronegativity": 1.78,
+    "atomic_radius": 142.0,
+    "melting_point": 429.7485,
+    "boiling_point": 2345,
+    "density": 7.31,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Indium is a chemical element with symbol In and atomic number 49. It is a post-transition metallic element that is rare in Earth's crust. The metal is very soft, malleable and easily fusible, with a melting point higher than sodium, but lower than lithium or tin.",
+    "source": "https://en.wikipedia.org/wiki/Indium"
+  },
+  {
+    "atomic_number": 50,
+    "symbol": "Sn",
+    "name": "Tin",
+    "atomic_mass": 118.7107,
+    "period": 5,
+    "group": 14,
+    "category": "post-transition metal",
+    "block": "p",
+    "protons": 50,
+    "electrons": 50,
+    "neutrons": 70,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p2",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      18,
+      4
+    ],
+    "representative_isotope": 120,
+    "isotopes": [
+      {
+        "mass_number": 112,
+        "abundance": 0.97
+      },
+      {
+        "mass_number": 114,
+        "abundance": 0.66
+      },
+      {
+        "mass_number": 115,
+        "abundance": 0.33999999999999997
+      },
+      {
+        "mass_number": 116,
+        "abundance": 14.540000000000001
+      },
+      {
+        "mass_number": 117,
+        "abundance": 7.68
+      },
+      {
+        "mass_number": 118,
+        "abundance": 24.22
+      },
+      {
+        "mass_number": 119,
+        "abundance": 8.59
+      },
+      {
+        "mass_number": 120,
+        "abundance": 32.58
+      },
+      {
+        "mass_number": 122,
+        "abundance": 4.63
+      },
+      {
+        "mass_number": 124,
+        "abundance": 5.79
+      }
+    ],
+    "electronegativity": 1.96,
+    "atomic_radius": 139.0,
+    "melting_point": 505.08,
+    "boiling_point": 2875,
+    "density": 7.365,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Tin is a chemical element with the symbol Sn (for Latin:stannum) and atomic number 50. It is a main group metal in group 14 of the periodic table. Tin shows a chemical similarity to both neighboring group-14 elements, germanium and lead, and has two possible oxidation states, +2 and the slightly more stable +4.",
+    "source": "https://en.wikipedia.org/wiki/Tin"
+  },
+  {
+    "atomic_number": 51,
+    "symbol": "Sb",
+    "name": "Antimony",
+    "atomic_mass": 121.7601,
+    "period": 5,
+    "group": 15,
+    "category": "metalloid",
+    "block": "p",
+    "protons": 51,
+    "electrons": 51,
+    "neutrons": 70,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p3",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      18,
+      5
+    ],
+    "representative_isotope": 121,
+    "isotopes": [
+      {
+        "mass_number": 121,
+        "abundance": 57.21000000000001
+      },
+      {
+        "mass_number": 123,
+        "abundance": 42.79
+      }
+    ],
+    "electronegativity": 2.05,
+    "atomic_radius": 139.0,
+    "melting_point": 903.78,
+    "boiling_point": 1908,
+    "density": 6.697,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Antimony is a chemical element with symbol Sb (from Latin:stibium) and atomic number 51. A lustrous gray metalloid, it is found in nature mainly as the sulfide mineral stibnite (Sb2S3). Antimony compounds have been known since ancient times and were used for cosmetics; metallic antimony was also known, but it was erroneously identified as lead upon its discovery.",
+    "source": "https://en.wikipedia.org/wiki/Antimony"
+  },
+  {
+    "atomic_number": 52,
+    "symbol": "Te",
+    "name": "Tellurium",
+    "atomic_mass": 127.603,
+    "period": 5,
+    "group": 16,
+    "category": "metalloid",
+    "block": "p",
+    "protons": 52,
+    "electrons": 52,
+    "neutrons": 78,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p4",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      18,
+      6
+    ],
+    "representative_isotope": 130,
+    "isotopes": [
+      {
+        "mass_number": 120,
+        "abundance": 0.09
+      },
+      {
+        "mass_number": 122,
+        "abundance": 2.55
+      },
+      {
+        "mass_number": 123,
+        "abundance": 0.89
+      },
+      {
+        "mass_number": 124,
+        "abundance": 4.74
+      },
+      {
+        "mass_number": 125,
+        "abundance": 7.07
+      },
+      {
+        "mass_number": 126,
+        "abundance": 18.84
+      },
+      {
+        "mass_number": 128,
+        "abundance": 31.740000000000002
+      },
+      {
+        "mass_number": 130,
+        "abundance": 34.08
+      }
+    ],
+    "electronegativity": 2.1,
+    "atomic_radius": 138.0,
+    "melting_point": 722.66,
+    "boiling_point": 1261,
+    "density": 6.24,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Tellurium is a chemical element with symbol Te and atomic number 52. It is a brittle, mildly toxic, rare, silver-white metalloid. Tellurium is chemically related to selenium and sulfur.",
+    "source": "https://en.wikipedia.org/wiki/Tellurium"
+  },
+  {
+    "atomic_number": 53,
+    "symbol": "I",
+    "name": "Iodine",
+    "atomic_mass": 126.904473,
+    "period": 5,
+    "group": 17,
+    "category": "halogen",
+    "block": "p",
+    "protons": 53,
+    "electrons": 53,
+    "neutrons": 74,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p5",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      18,
+      7
+    ],
+    "representative_isotope": 127,
+    "isotopes": [
+      {
+        "mass_number": 127,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 2.66,
+    "atomic_radius": 139.0,
+    "melting_point": 386.85,
+    "boiling_point": 457.4,
+    "density": 4.933,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Iodine is a chemical element with symbol I and atomic number 53. The name is from Greek ἰοειδής ioeidēs, meaning violet or purple, due to the color of iodine vapor. Iodine and its compounds are primarily used in nutrition, and industrially in the production of acetic acid and certain polymers.",
+    "source": "https://en.wikipedia.org/wiki/Iodine"
+  },
+  {
+    "atomic_number": 54,
+    "symbol": "Xe",
+    "name": "Xenon",
+    "atomic_mass": 131.2936,
+    "period": 5,
+    "group": 18,
+    "category": "noble gas",
+    "block": "p",
+    "protons": 54,
+    "electrons": 54,
+    "neutrons": 78,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      18,
+      8
+    ],
+    "representative_isotope": 132,
+    "isotopes": [
+      {
+        "mass_number": 124,
+        "abundance": 0.095
+      },
+      {
+        "mass_number": 126,
+        "abundance": 0.089
+      },
+      {
+        "mass_number": 128,
+        "abundance": 1.91
+      },
+      {
+        "mass_number": 129,
+        "abundance": 26.401000000000003
+      },
+      {
+        "mass_number": 130,
+        "abundance": 4.071000000000001
+      },
+      {
+        "mass_number": 131,
+        "abundance": 21.232
+      },
+      {
+        "mass_number": 132,
+        "abundance": 26.909
+      },
+      {
+        "mass_number": 134,
+        "abundance": 10.436
+      },
+      {
+        "mass_number": 136,
+        "abundance": 8.857
+      }
+    ],
+    "electronegativity": 2.6,
+    "atomic_radius": 140.0,
+    "melting_point": 161.4,
+    "boiling_point": 165.051,
+    "density": 0.005894,
+    "state": "gas",
+    "discovery_year": null,
+    "description": "Xenon is a chemical element with symbol Xe and atomic number 54. It is a colorless, dense, odorless noble gas, that occurs in the Earth's atmosphere in trace amounts. Although generally unreactive, xenon can undergo a few chemical reactions such as the formation of xenon hexafluoroplatinate, the first noble gas compound to be synthesized.",
+    "source": "https://en.wikipedia.org/wiki/Xenon"
+  },
+  {
+    "atomic_number": 55,
+    "symbol": "Cs",
+    "name": "Cesium",
+    "atomic_mass": 132.905451966,
+    "period": 6,
+    "group": 1,
+    "category": "alkali metal",
+    "block": "s",
+    "protons": 55,
+    "electrons": 55,
+    "neutrons": 78,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      18,
+      8,
+      1
+    ],
+    "representative_isotope": 133,
+    "isotopes": [
+      {
+        "mass_number": 133,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 0.79,
+    "atomic_radius": 244.0,
+    "melting_point": 301.7,
+    "boiling_point": 944,
+    "density": 1.93,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Caesium or cesium is a chemical element with symbol Cs and atomic number 55. It is a soft, silvery-gold alkali metal with a melting point of 28 °C (82 °F), which makes it one of only five elemental metals that are liquid at or near room temperature. Caesium is an alkali metal and has physical and chemical properties similar to those of rubidium and potassium.",
+    "source": "https://en.wikipedia.org/wiki/Cesium"
+  },
+  {
+    "atomic_number": 56,
+    "symbol": "Ba",
+    "name": "Barium",
+    "atomic_mass": 137.3277,
+    "period": 6,
+    "group": 2,
+    "category": "alkaline earth metal",
+    "block": "s",
+    "protons": 56,
+    "electrons": 56,
+    "neutrons": 82,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      18,
+      8,
+      2
+    ],
+    "representative_isotope": 138,
+    "isotopes": [
+      {
+        "mass_number": 130,
+        "abundance": 0.11
+      },
+      {
+        "mass_number": 132,
+        "abundance": 0.1
+      },
+      {
+        "mass_number": 134,
+        "abundance": 2.42
+      },
+      {
+        "mass_number": 135,
+        "abundance": 6.59
+      },
+      {
+        "mass_number": 136,
+        "abundance": 7.85
+      },
+      {
+        "mass_number": 137,
+        "abundance": 11.23
+      },
+      {
+        "mass_number": 138,
+        "abundance": 71.7
+      }
+    ],
+    "electronegativity": 0.89,
+    "atomic_radius": 215.0,
+    "melting_point": 1000,
+    "boiling_point": 2118,
+    "density": 3.51,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Barium is a chemical element with symbol Ba and atomic number 56. It is the fifth element in Group 2, a soft silvery metallic alkaline earth metal. Because of its high chemical reactivity barium is never found in nature as a free element.",
+    "source": "https://en.wikipedia.org/wiki/Barium"
+  },
+  {
+    "atomic_number": 57,
+    "symbol": "La",
+    "name": "Lanthanum",
+    "atomic_mass": 138.905477,
+    "period": 6,
+    "group": null,
+    "category": "lanthanide",
+    "block": "f",
+    "protons": 57,
+    "electrons": 57,
+    "neutrons": 82,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 5d1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      18,
+      9,
+      2
+    ],
+    "representative_isotope": 139,
+    "isotopes": [
+      {
+        "mass_number": 138,
+        "abundance": 0.08881
+      },
+      {
+        "mass_number": 139,
+        "abundance": 99.91119
+      }
+    ],
+    "electronegativity": 1.1,
+    "atomic_radius": 207.0,
+    "melting_point": 1193,
+    "boiling_point": 3737,
+    "density": 6.162,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Lanthanum is a soft, ductile, silvery-white metallic chemical element with symbol La and atomic number 57. It tarnishes rapidly when exposed to air and is soft enough to be cut with a knife. It gave its name to the lanthanide series, a group of 15 similar elements between lanthanum and lutetium in the periodic table:it is also sometimes considered the first element of the 6th-period transition metals.",
+    "source": "https://en.wikipedia.org/wiki/Lanthanum"
+  },
+  {
+    "atomic_number": 58,
+    "symbol": "Ce",
+    "name": "Cerium",
+    "atomic_mass": 140.1161,
+    "period": 6,
+    "group": null,
+    "category": "lanthanide",
+    "block": "f",
+    "protons": 58,
+    "electrons": 58,
+    "neutrons": 82,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 5d1 4f1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      19,
+      9,
+      2
+    ],
+    "representative_isotope": 140,
+    "isotopes": [
+      {
+        "mass_number": 136,
+        "abundance": 0.185
+      },
+      {
+        "mass_number": 138,
+        "abundance": 0.251
+      },
+      {
+        "mass_number": 140,
+        "abundance": 88.44999999999999
+      },
+      {
+        "mass_number": 142,
+        "abundance": 11.114
+      }
+    ],
+    "electronegativity": 1.12,
+    "atomic_radius": 204.0,
+    "melting_point": 1068,
+    "boiling_point": 3716,
+    "density": 6.77,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Cerium is a chemical element with symbol Ce and atomic number 58. It is a soft, silvery, ductile metal which easily oxidizes in air. Cerium was named after the dwarf planet Ceres (itself named after the Roman goddess of agriculture).",
+    "source": "https://en.wikipedia.org/wiki/Cerium"
+  },
+  {
+    "atomic_number": 59,
+    "symbol": "Pr",
+    "name": "Praseodymium",
+    "atomic_mass": 140.907662,
+    "period": 6,
+    "group": null,
+    "category": "lanthanide",
+    "block": "f",
+    "protons": 59,
+    "electrons": 59,
+    "neutrons": 82,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f3",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      21,
+      8,
+      2
+    ],
+    "representative_isotope": 141,
+    "isotopes": [
+      {
+        "mass_number": 141,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 1.13,
+    "atomic_radius": 203.0,
+    "melting_point": 1208,
+    "boiling_point": 3403,
+    "density": 6.77,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Praseodymium is a chemical element with symbol Pr and atomic number 59. Praseodymium is a soft, silvery, malleable and ductile metal in the lanthanide group. It is valued for its magnetic, electrical, chemical, and optical properties.",
+    "source": "https://en.wikipedia.org/wiki/Praseodymium"
+  },
+  {
+    "atomic_number": 60,
+    "symbol": "Nd",
+    "name": "Neodymium",
+    "atomic_mass": 144.2423,
+    "period": 6,
+    "group": null,
+    "category": "lanthanide",
+    "block": "f",
+    "protons": 60,
+    "electrons": 60,
+    "neutrons": 82,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f4",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      22,
+      8,
+      2
+    ],
+    "representative_isotope": 142,
+    "isotopes": [
+      {
+        "mass_number": 142,
+        "abundance": 27.151999999999997
+      },
+      {
+        "mass_number": 143,
+        "abundance": 12.174
+      },
+      {
+        "mass_number": 144,
+        "abundance": 23.798
+      },
+      {
+        "mass_number": 145,
+        "abundance": 8.293000000000001
+      },
+      {
+        "mass_number": 146,
+        "abundance": 17.189
+      },
+      {
+        "mass_number": 148,
+        "abundance": 5.756
+      },
+      {
+        "mass_number": 150,
+        "abundance": 5.638
+      }
+    ],
+    "electronegativity": 1.14,
+    "atomic_radius": 201.0,
+    "melting_point": 1297,
+    "boiling_point": 3347,
+    "density": 7.01,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Neodymium is a chemical element with symbol Nd and atomic number 60. It is a soft silvery metal that tarnishes in air. Neodymium was discovered in 1885 by the Austrian chemist Carl Auer von Welsbach.",
+    "source": "https://en.wikipedia.org/wiki/Neodymium"
+  },
+  {
+    "atomic_number": 61,
+    "symbol": "Pm",
+    "name": "Promethium",
+    "atomic_mass": 145,
+    "period": 6,
+    "group": null,
+    "category": "lanthanide",
+    "block": "f",
+    "protons": 61,
+    "electrons": 61,
+    "neutrons": 84,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f5",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      23,
+      8,
+      2
+    ],
+    "representative_isotope": 145,
+    "isotopes": [
+      {
+        "mass_number": 145,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 1.13,
+    "atomic_radius": 199.0,
+    "melting_point": 1315,
+    "boiling_point": 3273,
+    "density": 7.26,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Promethium, originally prometheum, is a chemical element with the symbol Pm and atomic number 61. All of its isotopes are radioactive; it is one of only two such elements that are followed in the periodic table by elements with stable forms, a distinction shared with technetium. Chemically, promethium is a lanthanide, which forms salts when combined with other elements.",
+    "source": "https://en.wikipedia.org/wiki/Promethium"
+  },
+  {
+    "atomic_number": 62,
+    "symbol": "Sm",
+    "name": "Samarium",
+    "atomic_mass": 150.362,
+    "period": 6,
+    "group": null,
+    "category": "lanthanide",
+    "block": "f",
+    "protons": 62,
+    "electrons": 62,
+    "neutrons": 90,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f6",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      24,
+      8,
+      2
+    ],
+    "representative_isotope": 152,
+    "isotopes": [
+      {
+        "mass_number": 144,
+        "abundance": 3.08
+      },
+      {
+        "mass_number": 147,
+        "abundance": 15.0
+      },
+      {
+        "mass_number": 148,
+        "abundance": 11.25
+      },
+      {
+        "mass_number": 149,
+        "abundance": 13.819999999999999
+      },
+      {
+        "mass_number": 150,
+        "abundance": 7.37
+      },
+      {
+        "mass_number": 152,
+        "abundance": 26.740000000000002
+      },
+      {
+        "mass_number": 154,
+        "abundance": 22.74
+      }
+    ],
+    "electronegativity": 1.17,
+    "atomic_radius": 198.0,
+    "melting_point": 1345,
+    "boiling_point": 2173,
+    "density": 7.52,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Samarium is a chemical element with symbol Sm and atomic number 62. It is a moderately hard silvery metal that readily oxidizes in air. Being a typical member of the lanthanide series, samarium usually assumes the oxidation state +3.",
+    "source": "https://en.wikipedia.org/wiki/Samarium"
+  },
+  {
+    "atomic_number": 63,
+    "symbol": "Eu",
+    "name": "Europium",
+    "atomic_mass": 151.9641,
+    "period": 6,
+    "group": null,
+    "category": "lanthanide",
+    "block": "f",
+    "protons": 63,
+    "electrons": 63,
+    "neutrons": 90,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f7",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      25,
+      8,
+      2
+    ],
+    "representative_isotope": 153,
+    "isotopes": [
+      {
+        "mass_number": 151,
+        "abundance": 47.81
+      },
+      {
+        "mass_number": 153,
+        "abundance": 52.190000000000005
+      }
+    ],
+    "electronegativity": 1.2,
+    "atomic_radius": 198.0,
+    "melting_point": 1099,
+    "boiling_point": 1802,
+    "density": 5.264,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Europium is a chemical element with symbol Eu and atomic number 63. It was isolated in 1901 and is named after the continent of Europe. It is a moderately hard, silvery metal which readily oxidizes in air and water.",
+    "source": "https://en.wikipedia.org/wiki/Europium"
+  },
+  {
+    "atomic_number": 64,
+    "symbol": "Gd",
+    "name": "Gadolinium",
+    "atomic_mass": 157.253,
+    "period": 6,
+    "group": null,
+    "category": "lanthanide",
+    "block": "f",
+    "protons": 64,
+    "electrons": 64,
+    "neutrons": 94,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f7 5d1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      25,
+      9,
+      2
+    ],
+    "representative_isotope": 158,
+    "isotopes": [
+      {
+        "mass_number": 152,
+        "abundance": 0.2
+      },
+      {
+        "mass_number": 154,
+        "abundance": 2.18
+      },
+      {
+        "mass_number": 155,
+        "abundance": 14.799999999999999
+      },
+      {
+        "mass_number": 156,
+        "abundance": 20.47
+      },
+      {
+        "mass_number": 157,
+        "abundance": 15.65
+      },
+      {
+        "mass_number": 158,
+        "abundance": 24.84
+      },
+      {
+        "mass_number": 160,
+        "abundance": 21.86
+      }
+    ],
+    "electronegativity": 1.2,
+    "atomic_radius": 196.0,
+    "melting_point": 1585,
+    "boiling_point": 3273,
+    "density": 7.9,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Gadolinium is a chemical element with symbol Gd and atomic number 64. It is a silvery-white, malleable and ductile rare-earth metal. It is found in nature only in combined (salt) form.",
+    "source": "https://en.wikipedia.org/wiki/Gadolinium"
+  },
+  {
+    "atomic_number": 65,
+    "symbol": "Tb",
+    "name": "Terbium",
+    "atomic_mass": 158.925352,
+    "period": 6,
+    "group": null,
+    "category": "lanthanide",
+    "block": "f",
+    "protons": 65,
+    "electrons": 65,
+    "neutrons": 94,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f9",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      27,
+      8,
+      2
+    ],
+    "representative_isotope": 159,
+    "isotopes": [
+      {
+        "mass_number": 159,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 1.1,
+    "atomic_radius": 194.0,
+    "melting_point": 1629,
+    "boiling_point": 3396,
+    "density": 8.23,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Terbium is a chemical element with symbol Tb and atomic number 65. It is a silvery-white rare earth metal that is malleable, ductile and soft enough to be cut with a knife. Terbium is never found in nature as a free element, but it is contained in many minerals, including cerite, gadolinite, monazite, xenotime and euxenite.",
+    "source": "https://en.wikipedia.org/wiki/Terbium"
+  },
+  {
+    "atomic_number": 66,
+    "symbol": "Dy",
+    "name": "Dysprosium",
+    "atomic_mass": 162.5001,
+    "period": 6,
+    "group": null,
+    "category": "lanthanide",
+    "block": "f",
+    "protons": 66,
+    "electrons": 66,
+    "neutrons": 98,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f10",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      28,
+      8,
+      2
+    ],
+    "representative_isotope": 164,
+    "isotopes": [
+      {
+        "mass_number": 156,
+        "abundance": 0.055999999999999994
+      },
+      {
+        "mass_number": 158,
+        "abundance": 0.095
+      },
+      {
+        "mass_number": 160,
+        "abundance": 2.329
+      },
+      {
+        "mass_number": 161,
+        "abundance": 18.889
+      },
+      {
+        "mass_number": 162,
+        "abundance": 25.474999999999998
+      },
+      {
+        "mass_number": 163,
+        "abundance": 24.895999999999997
+      },
+      {
+        "mass_number": 164,
+        "abundance": 28.26
+      }
+    ],
+    "electronegativity": 1.22,
+    "atomic_radius": 192.0,
+    "melting_point": 1680,
+    "boiling_point": 2840,
+    "density": 8.54,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Dysprosium is a chemical element with the symbol Dy and atomic number 66. It is a rare earth element with a metallic silver luster. Dysprosium is never found in nature as a free element, though it is found in various minerals, such as xenotime.",
+    "source": "https://en.wikipedia.org/wiki/Dysprosium"
+  },
+  {
+    "atomic_number": 67,
+    "symbol": "Ho",
+    "name": "Holmium",
+    "atomic_mass": 164.930332,
+    "period": 6,
+    "group": null,
+    "category": "lanthanide",
+    "block": "f",
+    "protons": 67,
+    "electrons": 67,
+    "neutrons": 98,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f11",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      29,
+      8,
+      2
+    ],
+    "representative_isotope": 165,
+    "isotopes": [
+      {
+        "mass_number": 165,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 1.23,
+    "atomic_radius": 192.0,
+    "melting_point": 1734,
+    "boiling_point": 2873,
+    "density": 8.79,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Holmium is a chemical element with symbol Ho and atomic number 67. Part of the lanthanide series, holmium is a rare earth element. Holmium was discovered by Swedish chemist Per Theodor Cleve.",
+    "source": "https://en.wikipedia.org/wiki/Holmium"
+  },
+  {
+    "atomic_number": 68,
+    "symbol": "Er",
+    "name": "Erbium",
+    "atomic_mass": 167.2593,
+    "period": 6,
+    "group": null,
+    "category": "lanthanide",
+    "block": "f",
+    "protons": 68,
+    "electrons": 68,
+    "neutrons": 98,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      30,
+      8,
+      2
+    ],
+    "representative_isotope": 166,
+    "isotopes": [
+      {
+        "mass_number": 162,
+        "abundance": 0.13899999999999998
+      },
+      {
+        "mass_number": 164,
+        "abundance": 1.601
+      },
+      {
+        "mass_number": 166,
+        "abundance": 33.503
+      },
+      {
+        "mass_number": 167,
+        "abundance": 22.869
+      },
+      {
+        "mass_number": 168,
+        "abundance": 26.978
+      },
+      {
+        "mass_number": 170,
+        "abundance": 14.91
+      }
+    ],
+    "electronegativity": 1.24,
+    "atomic_radius": 189.0,
+    "melting_point": 1802,
+    "boiling_point": 3141,
+    "density": 9.066,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Erbium is a chemical element in the lanthanide series, with symbol Er and atomic number 68. A silvery-white solid metal when artificially isolated, natural erbium is always found in chemical combination with other elements on Earth. As such, it is a rare earth element which is associated with several other rare elements in the mineral gadolinite from Ytterby in Sweden, where yttrium, ytterbium, and terbium were discovered.",
+    "source": "https://en.wikipedia.org/wiki/Erbium"
+  },
+  {
+    "atomic_number": 69,
+    "symbol": "Tm",
+    "name": "Thulium",
+    "atomic_mass": 168.934222,
+    "period": 6,
+    "group": null,
+    "category": "lanthanide",
+    "block": "f",
+    "protons": 69,
+    "electrons": 69,
+    "neutrons": 100,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f13",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      31,
+      8,
+      2
+    ],
+    "representative_isotope": 169,
+    "isotopes": [
+      {
+        "mass_number": 169,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 1.25,
+    "atomic_radius": 190.0,
+    "melting_point": 1818,
+    "boiling_point": 2223,
+    "density": 9.32,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Thulium is a chemical element with symbol Tm and atomic number 69. It is the thirteenth and antepenultimate (third-last) element in the lanthanide series. Like the other lanthanides, the most common oxidation state is +3, seen in its oxide, halides and other compounds.",
+    "source": "https://en.wikipedia.org/wiki/Thulium"
+  },
+  {
+    "atomic_number": 70,
+    "symbol": "Yb",
+    "name": "Ytterbium",
+    "atomic_mass": 173.0451,
+    "period": 6,
+    "group": null,
+    "category": "lanthanide",
+    "block": "f",
+    "protons": 70,
+    "electrons": 70,
+    "neutrons": 104,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      8,
+      2
+    ],
+    "representative_isotope": 174,
+    "isotopes": [
+      {
+        "mass_number": 168,
+        "abundance": 0.126
+      },
+      {
+        "mass_number": 170,
+        "abundance": 3.023
+      },
+      {
+        "mass_number": 171,
+        "abundance": 14.216000000000001
+      },
+      {
+        "mass_number": 172,
+        "abundance": 21.754
+      },
+      {
+        "mass_number": 173,
+        "abundance": 16.098000000000003
+      },
+      {
+        "mass_number": 174,
+        "abundance": 31.896
+      },
+      {
+        "mass_number": 176,
+        "abundance": 12.887
+      }
+    ],
+    "electronegativity": 1.1,
+    "atomic_radius": 187.0,
+    "melting_point": 1097,
+    "boiling_point": 1469,
+    "density": 6.9,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Ytterbium is a chemical element with symbol Yb and atomic number 70. It is the fourteenth and penultimate element in the lanthanide series, which is the basis of the relative stability of its +2 oxidation state. However, like the other lanthanides, its most common oxidation state is +3, seen in its oxide, halides and other compounds.",
+    "source": "https://en.wikipedia.org/wiki/Ytterbium"
+  },
+  {
+    "atomic_number": 71,
+    "symbol": "Lu",
+    "name": "Lutetium",
+    "atomic_mass": 174.96681,
+    "period": 6,
+    "group": null,
+    "category": "lanthanide",
+    "block": "f",
+    "protons": 71,
+    "electrons": 71,
+    "neutrons": 104,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      9,
+      2
+    ],
+    "representative_isotope": 175,
+    "isotopes": [
+      {
+        "mass_number": 175,
+        "abundance": 97.40100000000001
+      },
+      {
+        "mass_number": 176,
+        "abundance": 2.5989999999999998
+      }
+    ],
+    "electronegativity": 1.27,
+    "atomic_radius": 187.0,
+    "melting_point": 1925,
+    "boiling_point": 3675,
+    "density": 9.841,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Lutetium is a chemical element with symbol Lu and atomic number 71. It is a silvery white metal, which resists corrosion in dry, but not in moist air. It is considered the first element of the 6th-period transition metals and the last element in the lanthanide series, and is traditionally counted among the rare earths.",
+    "source": "https://en.wikipedia.org/wiki/Lutetium"
+  },
+  {
+    "atomic_number": 72,
+    "symbol": "Hf",
+    "name": "Hafnium",
+    "atomic_mass": 178.492,
+    "period": 6,
+    "group": 4,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 72,
+    "electrons": 72,
+    "neutrons": 108,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d2",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      10,
+      2
+    ],
+    "representative_isotope": 180,
+    "isotopes": [
+      {
+        "mass_number": 174,
+        "abundance": 0.16098229194788574
+      },
+      {
+        "mass_number": 176,
+        "abundance": 5.239423663397027
+      },
+      {
+        "mass_number": 177,
+        "abundance": 18.57795642479327
+      },
+      {
+        "mass_number": 178,
+        "abundance": 27.27699953005169
+      },
+      {
+        "mass_number": 179,
+        "abundance": 13.628500864904861
+      },
+      {
+        "mass_number": 180,
+        "abundance": 35.116137224905266
+      }
+    ],
+    "electronegativity": 1.3,
+    "atomic_radius": 175.0,
+    "melting_point": 2506,
+    "boiling_point": 4876,
+    "density": 13.31,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Hafnium is a chemical element with symbol Hf and atomic number 72. A lustrous, silvery gray, tetravalent transition metal, hafnium chemically resembles zirconium and is found in zirconium minerals. Its existence was predicted by Dmitri Mendeleev in 1869, though it was not identified until 1923, making it the penultimate stable element to be discovered (rhenium was identified two years later).",
+    "source": "https://en.wikipedia.org/wiki/Hafnium"
+  },
+  {
+    "atomic_number": 73,
+    "symbol": "Ta",
+    "name": "Tantalum",
+    "atomic_mass": 180.947882,
+    "period": 6,
+    "group": 5,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 73,
+    "electrons": 73,
+    "neutrons": 108,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d3",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      11,
+      2
+    ],
+    "representative_isotope": 181,
+    "isotopes": [
+      {
+        "mass_number": 180,
+        "abundance": 0.01176
+      },
+      {
+        "mass_number": 181,
+        "abundance": 99.98823999999999
+      }
+    ],
+    "electronegativity": 1.5,
+    "atomic_radius": 170.0,
+    "melting_point": 3290,
+    "boiling_point": 5731,
+    "density": 16.69,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Tantalum is a chemical element with symbol Ta and atomic number 73. Previously known as tantalium, its name comes from Tantalus, an antihero from Greek mythology. Tantalum is a rare, hard, blue-gray, lustrous transition metal that is highly corrosion-resistant.",
+    "source": "https://en.wikipedia.org/wiki/Tantalum"
+  },
+  {
+    "atomic_number": 74,
+    "symbol": "W",
+    "name": "Tungsten",
+    "atomic_mass": 183.841,
+    "period": 6,
+    "group": 6,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 74,
+    "electrons": 74,
+    "neutrons": 110,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d4",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      12,
+      2
+    ],
+    "representative_isotope": 184,
+    "isotopes": [
+      {
+        "mass_number": 180,
+        "abundance": 0.12
+      },
+      {
+        "mass_number": 182,
+        "abundance": 26.5
+      },
+      {
+        "mass_number": 183,
+        "abundance": 14.31
+      },
+      {
+        "mass_number": 184,
+        "abundance": 30.64
+      },
+      {
+        "mass_number": 186,
+        "abundance": 28.43
+      }
+    ],
+    "electronegativity": 2.36,
+    "atomic_radius": 162.0,
+    "melting_point": 3695,
+    "boiling_point": 6203,
+    "density": 19.25,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Tungsten, also known as wolfram, is a chemical element with symbol W and atomic number 74. The word tungsten comes from the Swedish language tung sten, which directly translates to heavy stone. Its name in Swedish is volfram, however, in order to distinguish it from scheelite, which in Swedish is alternatively named tungsten.",
+    "source": "https://en.wikipedia.org/wiki/Tungsten"
+  },
+  {
+    "atomic_number": 75,
+    "symbol": "Re",
+    "name": "Rhenium",
+    "atomic_mass": 186.2071,
+    "period": 6,
+    "group": 7,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 75,
+    "electrons": 75,
+    "neutrons": 112,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d5",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      13,
+      2
+    ],
+    "representative_isotope": 187,
+    "isotopes": [
+      {
+        "mass_number": 185,
+        "abundance": 37.4
+      },
+      {
+        "mass_number": 187,
+        "abundance": 62.6
+      }
+    ],
+    "electronegativity": 1.9,
+    "atomic_radius": 151.0,
+    "melting_point": 3459,
+    "boiling_point": 5869,
+    "density": 21.02,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Rhenium is a chemical element with symbol Re and atomic number 75. It is a silvery-white, heavy, third-row transition metal in group 7 of the periodic table. With an estimated average concentration of 1 part per billion (ppb), rhenium is one of the rarest elements in the Earth's crust.",
+    "source": "https://en.wikipedia.org/wiki/Rhenium"
+  },
+  {
+    "atomic_number": 76,
+    "symbol": "Os",
+    "name": "Osmium",
+    "atomic_mass": 190.233,
+    "period": 6,
+    "group": 8,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 76,
+    "electrons": 76,
+    "neutrons": 116,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d6",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      14,
+      2
+    ],
+    "representative_isotope": 192,
+    "isotopes": [
+      {
+        "mass_number": 184,
+        "abundance": 0.02
+      },
+      {
+        "mass_number": 186,
+        "abundance": 1.59
+      },
+      {
+        "mass_number": 187,
+        "abundance": 1.96
+      },
+      {
+        "mass_number": 188,
+        "abundance": 13.239999999999998
+      },
+      {
+        "mass_number": 189,
+        "abundance": 16.150000000000002
+      },
+      {
+        "mass_number": 190,
+        "abundance": 26.26
+      },
+      {
+        "mass_number": 192,
+        "abundance": 40.78
+      }
+    ],
+    "electronegativity": 2.2,
+    "atomic_radius": 144.0,
+    "melting_point": 3306,
+    "boiling_point": 5285,
+    "density": 22.59,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Osmium (from Greek osme (ὀσμή) meaning \"smell\") is a chemical element with symbol Os and atomic number 76. It is a hard, brittle, bluish-white transition metal in the platinum group that is found as a trace element in alloys, mostly in platinum ores. Osmium is the densest naturally occurring element, with a density of 22.59 g/cm3.",
+    "source": "https://en.wikipedia.org/wiki/Osmium"
+  },
+  {
+    "atomic_number": 77,
+    "symbol": "Ir",
+    "name": "Iridium",
+    "atomic_mass": 192.2173,
+    "period": 6,
+    "group": 9,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 77,
+    "electrons": 77,
+    "neutrons": 116,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d7",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      15,
+      2
+    ],
+    "representative_isotope": 193,
+    "isotopes": [
+      {
+        "mass_number": 191,
+        "abundance": 37.230000000000004
+      },
+      {
+        "mass_number": 193,
+        "abundance": 62.77
+      }
+    ],
+    "electronegativity": 2.2,
+    "atomic_radius": 141.0,
+    "melting_point": 2719,
+    "boiling_point": 4403,
+    "density": 22.56,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Iridium is a chemical element with symbol Ir and atomic number 77. A very hard, brittle, silvery-white transition metal of the platinum group, iridium is generally credited with being the second densest element (after osmium) based on measured density, although calculations involving the space lattices of the elements show that iridium is denser. It is also the most corrosion-resistant metal, even at temperatures as high as 2000 °C. Although only certain molten salts and halogens are corrosive to solid iridium, finely divided iridium dust is much more reactive and can be flammable.",
+    "source": "https://en.wikipedia.org/wiki/Iridium"
+  },
+  {
+    "atomic_number": 78,
+    "symbol": "Pt",
+    "name": "Platinum",
+    "atomic_mass": 195.0849,
+    "period": 6,
+    "group": 10,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 78,
+    "electrons": 78,
+    "neutrons": 117,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1 4f14 5d9",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      17,
+      1
+    ],
+    "representative_isotope": 195,
+    "isotopes": [
+      {
+        "mass_number": 190,
+        "abundance": 0.012
+      },
+      {
+        "mass_number": 192,
+        "abundance": 0.782
+      },
+      {
+        "mass_number": 194,
+        "abundance": 32.864
+      },
+      {
+        "mass_number": 195,
+        "abundance": 33.775
+      },
+      {
+        "mass_number": 196,
+        "abundance": 25.211
+      },
+      {
+        "mass_number": 198,
+        "abundance": 7.356
+      }
+    ],
+    "electronegativity": 2.28,
+    "atomic_radius": 136.0,
+    "melting_point": 2041.4,
+    "boiling_point": 4098,
+    "density": 21.45,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Platinum is a chemical element with symbol Pt and atomic number 78. It is a dense, malleable, ductile, highly unreactive, precious, gray-white transition metal. Its name is derived from the Spanish term platina, which is literally translated into \"little silver\".",
+    "source": "https://en.wikipedia.org/wiki/Platinum"
+  },
+  {
+    "atomic_number": 79,
+    "symbol": "Au",
+    "name": "Gold",
+    "atomic_mass": 196.9665695,
+    "period": 6,
+    "group": 11,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 79,
+    "electrons": 79,
+    "neutrons": 118,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1 4f14 5d10",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      1
+    ],
+    "representative_isotope": 197,
+    "isotopes": [
+      {
+        "mass_number": 197,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 2.54,
+    "atomic_radius": 136.0,
+    "melting_point": 1337.33,
+    "boiling_point": 3243,
+    "density": 19.3,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Gold is a chemical element with symbol Au (from Latin:aurum) and atomic number 79. In its purest form, it is a bright, slightly reddish yellow, dense, soft, malleable and ductile metal. Chemically, gold is a transition metal and a group 11 element.",
+    "source": "https://en.wikipedia.org/wiki/Gold"
+  },
+  {
+    "atomic_number": 80,
+    "symbol": "Hg",
+    "name": "Mercury",
+    "atomic_mass": 200.5923,
+    "period": 6,
+    "group": 12,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 80,
+    "electrons": 80,
+    "neutrons": 122,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      2
+    ],
+    "representative_isotope": 202,
+    "isotopes": [
+      {
+        "mass_number": 196,
+        "abundance": 0.15
+      },
+      {
+        "mass_number": 198,
+        "abundance": 10.040000000000001
+      },
+      {
+        "mass_number": 199,
+        "abundance": 16.939999999999998
+      },
+      {
+        "mass_number": 200,
+        "abundance": 23.14
+      },
+      {
+        "mass_number": 201,
+        "abundance": 13.170000000000002
+      },
+      {
+        "mass_number": 202,
+        "abundance": 29.74
+      },
+      {
+        "mass_number": 204,
+        "abundance": 6.819999999999999
+      }
+    ],
+    "electronegativity": 2,
+    "atomic_radius": 132.0,
+    "melting_point": 234.321,
+    "boiling_point": 629.88,
+    "density": 13.534,
+    "state": "liquid",
+    "discovery_year": null,
+    "description": "Mercury is a chemical element with symbol Hg and atomic number 80. It is commonly known as quicksilver and was formerly named hydrargyrum (/haɪˈdrɑːrdʒərəm/). A heavy, silvery d-block element, mercury is the only metallic element that is liquid at standard conditions for temperature and pressure; the only other element that is liquid under these conditions is bromine, though metals such as caesium, gallium, and rubidium melt just above room temperature.",
+    "source": "https://en.wikipedia.org/wiki/Mercury (Element)"
+  },
+  {
+    "atomic_number": 81,
+    "symbol": "Tl",
+    "name": "Thallium",
+    "atomic_mass": 204.38,
+    "period": 6,
+    "group": 13,
+    "category": "post-transition metal",
+    "block": "p",
+    "protons": 81,
+    "electrons": 81,
+    "neutrons": 124,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      3
+    ],
+    "representative_isotope": 205,
+    "isotopes": [
+      {
+        "mass_number": 203,
+        "abundance": 29.515
+      },
+      {
+        "mass_number": 205,
+        "abundance": 70.485
+      }
+    ],
+    "electronegativity": 1.62,
+    "atomic_radius": 145.0,
+    "melting_point": 577,
+    "boiling_point": 1746,
+    "density": 11.85,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Thallium is a chemical element with symbol Tl and atomic number 81. This soft gray post-transition metal is not found free in nature. When isolated, it resembles tin, but discolors when exposed to air.",
+    "source": "https://en.wikipedia.org/wiki/Thallium"
+  },
+  {
+    "atomic_number": 82,
+    "symbol": "Pb",
+    "name": "Lead",
+    "atomic_mass": 207.21,
+    "period": 6,
+    "group": 14,
+    "category": "post-transition metal",
+    "block": "p",
+    "protons": 82,
+    "electrons": 82,
+    "neutrons": 126,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p2",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      4
+    ],
+    "representative_isotope": 208,
+    "isotopes": [
+      {
+        "mass_number": 204,
+        "abundance": 1.4000000000000001
+      },
+      {
+        "mass_number": 206,
+        "abundance": 24.099999999999998
+      },
+      {
+        "mass_number": 207,
+        "abundance": 22.1
+      },
+      {
+        "mass_number": 208,
+        "abundance": 52.400000000000006
+      }
+    ],
+    "electronegativity": 1.87,
+    "atomic_radius": 146.0,
+    "melting_point": 600.61,
+    "boiling_point": 2022,
+    "density": 11.34,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Lead (/lɛd/) is a chemical element in the carbon group with symbol Pb (from Latin:plumbum) and atomic number 82. Lead is a soft, malleable and heavy post-transition metal. Metallic lead has a bluish-white color after being freshly cut, but it soon tarnishes to a dull grayish color when exposed to air.",
+    "source": "https://en.wikipedia.org/wiki/Lead_(element)"
+  },
+  {
+    "atomic_number": 83,
+    "symbol": "Bi",
+    "name": "Bismuth",
+    "atomic_mass": 208.980401,
+    "period": 6,
+    "group": 15,
+    "category": "post-transition metal",
+    "block": "p",
+    "protons": 83,
+    "electrons": 83,
+    "neutrons": 126,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p3",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      5
+    ],
+    "representative_isotope": 209,
+    "isotopes": [
+      {
+        "mass_number": 209,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 2.02,
+    "atomic_radius": 148.0,
+    "melting_point": 544.7,
+    "boiling_point": 1837,
+    "density": 9.78,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Bismuth is a chemical element with symbol Bi and atomic number 83. Bismuth, a pentavalent post-transition metal, chemically resembles arsenic and antimony. Elemental bismuth may occur naturally, although its sulfide and oxide form important commercial ores.",
+    "source": "https://en.wikipedia.org/wiki/Bismuth"
+  },
+  {
+    "atomic_number": 84,
+    "symbol": "Po",
+    "name": "Polonium",
+    "atomic_mass": 209,
+    "period": 6,
+    "group": 16,
+    "category": "post-transition metal",
+    "block": "p",
+    "protons": 84,
+    "electrons": 84,
+    "neutrons": 125,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p4",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      6
+    ],
+    "representative_isotope": 209,
+    "isotopes": [
+      {
+        "mass_number": 209,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 2,
+    "atomic_radius": 140.0,
+    "melting_point": 527,
+    "boiling_point": 1235,
+    "density": 9.196,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Polonium is a chemical element with symbol Po and atomic number 84, discovered in 1898 by Marie Curie and Pierre Curie. A rare and highly radioactive element with no stable isotopes, polonium is chemically similar to bismuth and tellurium, and it occurs in uranium ores. Applications of polonium are few.",
+    "source": "https://en.wikipedia.org/wiki/Polonium"
+  },
+  {
+    "atomic_number": 85,
+    "symbol": "At",
+    "name": "Astatine",
+    "atomic_mass": 210,
+    "period": 6,
+    "group": 17,
+    "category": "metalloid",
+    "block": "p",
+    "protons": 85,
+    "electrons": 85,
+    "neutrons": 125,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p5",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      7
+    ],
+    "representative_isotope": 210,
+    "isotopes": [
+      {
+        "mass_number": 210,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 2.2,
+    "atomic_radius": 150.0,
+    "melting_point": 575,
+    "boiling_point": 610,
+    "density": 6.35,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Astatine is a very rare radioactive chemical element with the chemical symbol At and atomic number 85. It occurs on Earth as the decay product of various heavier elements. All its isotopes are short-lived; the most stable is astatine-210, with a half-life of 8.1 hours.",
+    "source": "https://en.wikipedia.org/wiki/Astatine"
+  },
+  {
+    "atomic_number": 86,
+    "symbol": "Rn",
+    "name": "Radon",
+    "atomic_mass": 222,
+    "period": 6,
+    "group": 18,
+    "category": "noble gas",
+    "block": "p",
+    "protons": 86,
+    "electrons": 86,
+    "neutrons": 136,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      8
+    ],
+    "representative_isotope": 222,
+    "isotopes": [
+      {
+        "mass_number": 222,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 2.2,
+    "atomic_radius": 150.0,
+    "melting_point": 202,
+    "boiling_point": 211.5,
+    "density": 0.00973,
+    "state": "gas",
+    "discovery_year": null,
+    "description": "Radon is a chemical element with symbol Rn and atomic number 86. It is a radioactive, colorless, odorless, tasteless noble gas, occurring naturally as a decay product of radium. Its most stable isotope, 222Rn, has a half-life of 3.8 days.",
+    "source": "https://en.wikipedia.org/wiki/Radon"
+  },
+  {
+    "atomic_number": 87,
+    "symbol": "Fr",
+    "name": "Francium",
+    "atomic_mass": 223,
+    "period": 7,
+    "group": 1,
+    "category": "alkali metal",
+    "block": "s",
+    "protons": 87,
+    "electrons": 87,
+    "neutrons": 136,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      8,
+      1
+    ],
+    "representative_isotope": 223,
+    "isotopes": [
+      {
+        "mass_number": 223,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 0.79,
+    "atomic_radius": 260.0,
+    "melting_point": 300,
+    "boiling_point": 950,
+    "density": 1.87,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Francium is a chemical element with symbol Fr and atomic number 87. It used to be known as eka-caesium and actinium K. It is the second-least electronegative element, behind only caesium. Francium is a highly radioactive metal that decays into astatine, radium, and radon.",
+    "source": "https://en.wikipedia.org/wiki/Francium"
+  },
+  {
+    "atomic_number": 88,
+    "symbol": "Ra",
+    "name": "Radium",
+    "atomic_mass": 226,
+    "period": 7,
+    "group": 2,
+    "category": "alkaline earth metal",
+    "block": "s",
+    "protons": 88,
+    "electrons": 88,
+    "neutrons": 138,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      8,
+      2
+    ],
+    "representative_isotope": 226,
+    "isotopes": [
+      {
+        "mass_number": 226,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 0.9,
+    "atomic_radius": 221.0,
+    "melting_point": 1233,
+    "boiling_point": 2010,
+    "density": 5.5,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Radium is a chemical element with symbol Ra and atomic number 88. It is the sixth element in group 2 of the periodic table, also known as the alkaline earth metals. Pure radium is almost colorless, but it readily combines with nitrogen (rather than oxygen) on exposure to air, forming a black surface layer of radium nitride (Ra3N2).",
+    "source": "https://en.wikipedia.org/wiki/Radium"
+  },
+  {
+    "atomic_number": 89,
+    "symbol": "Ac",
+    "name": "Actinium",
+    "atomic_mass": 227,
+    "period": 7,
+    "group": null,
+    "category": "actinide",
+    "block": "f",
+    "protons": 89,
+    "electrons": 89,
+    "neutrons": 138,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 6d1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      9,
+      2
+    ],
+    "representative_isotope": 227,
+    "isotopes": [
+      {
+        "mass_number": 227,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 1.1,
+    "atomic_radius": 215.0,
+    "melting_point": 1500,
+    "boiling_point": 3500,
+    "density": 10.0,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Actinium is a radioactive chemical element with symbol Ac (not to be confused with the abbreviation for an acetyl group) and atomic number 89, which was discovered in 1899. It was the first non-primordial radioactive element to be isolated. Polonium, radium and radon were observed before actinium, but they were not isolated until 1902.",
+    "source": "https://en.wikipedia.org/wiki/Actinium"
+  },
+  {
+    "atomic_number": 90,
+    "symbol": "Th",
+    "name": "Thorium",
+    "atomic_mass": 232.03774,
+    "period": 7,
+    "group": null,
+    "category": "actinide",
+    "block": "f",
+    "protons": 90,
+    "electrons": 90,
+    "neutrons": 142,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 6d2",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      10,
+      2
+    ],
+    "representative_isotope": 232,
+    "isotopes": [
+      {
+        "mass_number": 230,
+        "abundance": 0.02
+      },
+      {
+        "mass_number": 232,
+        "abundance": 99.98
+      }
+    ],
+    "electronegativity": 1.3,
+    "atomic_radius": 206.0,
+    "melting_point": 2023,
+    "boiling_point": 5061,
+    "density": 11.724,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Thorium is a chemical element with symbol Th and atomic number 90. A radioactive actinide metal, thorium is one of only two significantly radioactive elements that still occur naturally in large quantities as a primordial element (the other being uranium). It was discovered in 1828 by the Norwegian Reverend and amateur mineralogist Morten Thrane Esmark and identified by the Swedish chemist Jöns Jakob Berzelius, who named it after Thor, the Norse god of thunder.",
+    "source": "https://en.wikipedia.org/wiki/Thorium"
+  },
+  {
+    "atomic_number": 91,
+    "symbol": "Pa",
+    "name": "Protactinium",
+    "atomic_mass": 231.035882,
+    "period": 7,
+    "group": null,
+    "category": "actinide",
+    "block": "f",
+    "protons": 91,
+    "electrons": 91,
+    "neutrons": 140,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f2 6d1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      20,
+      9,
+      2
+    ],
+    "representative_isotope": 231,
+    "isotopes": [
+      {
+        "mass_number": 231,
+        "abundance": 100.0
+      }
+    ],
+    "electronegativity": 1.5,
+    "atomic_radius": 200.0,
+    "melting_point": 1841,
+    "boiling_point": 4300,
+    "density": 15.37,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Protactinium is a chemical element with symbol Pa and atomic number 91. It is a dense, silvery-gray metal which readily reacts with oxygen, water vapor and inorganic acids. It forms various chemical compounds where protactinium is usually present in the oxidation state +5, but can also assume +4 and even +2 or +3 states.",
+    "source": "https://en.wikipedia.org/wiki/Protactinium"
+  },
+  {
+    "atomic_number": 92,
+    "symbol": "U",
+    "name": "Uranium",
+    "atomic_mass": 238.028913,
+    "period": 7,
+    "group": null,
+    "category": "actinide",
+    "block": "f",
+    "protons": 92,
+    "electrons": 92,
+    "neutrons": 146,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f3 6d1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      21,
+      9,
+      2
+    ],
+    "representative_isotope": 238,
+    "isotopes": [
+      {
+        "mass_number": 234,
+        "abundance": null
+      },
+      {
+        "mass_number": 235,
+        "abundance": null
+      },
+      {
+        "mass_number": 238,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 1.38,
+    "atomic_radius": 196.0,
+    "melting_point": 1405.3,
+    "boiling_point": 4404,
+    "density": 19.1,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Uranium is a chemical element with symbol U and atomic number 92. It is a silvery-white metal in the actinide series of the periodic table. A uranium atom has 92 protons and 92 electrons, of which 6 are valence electrons.",
+    "source": "https://en.wikipedia.org/wiki/Uranium"
+  },
+  {
+    "atomic_number": 93,
+    "symbol": "Np",
+    "name": "Neptunium",
+    "atomic_mass": 237,
+    "period": 7,
+    "group": null,
+    "category": "actinide",
+    "block": "f",
+    "protons": 93,
+    "electrons": 93,
+    "neutrons": 144,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f4 6d1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      22,
+      9,
+      2
+    ],
+    "representative_isotope": 237,
+    "isotopes": [
+      {
+        "mass_number": 237,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 1.36,
+    "atomic_radius": 190.0,
+    "melting_point": 912,
+    "boiling_point": 4447,
+    "density": 20.45,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Neptunium is a chemical element with symbol Np and atomic number 93. A radioactive actinide metal, neptunium is the first transuranic element. Its position in the periodic table just after uranium, named after the planet Uranus, led to it being named after Neptune, the next planet beyond Uranus.",
+    "source": "https://en.wikipedia.org/wiki/Neptunium"
+  },
+  {
+    "atomic_number": 94,
+    "symbol": "Pu",
+    "name": "Plutonium",
+    "atomic_mass": 244,
+    "period": 7,
+    "group": null,
+    "category": "actinide",
+    "block": "f",
+    "protons": 94,
+    "electrons": 94,
+    "neutrons": 150,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f6",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      24,
+      8,
+      2
+    ],
+    "representative_isotope": 244,
+    "isotopes": [
+      {
+        "mass_number": 238,
+        "abundance": null
+      },
+      {
+        "mass_number": 239,
+        "abundance": null
+      },
+      {
+        "mass_number": 240,
+        "abundance": null
+      },
+      {
+        "mass_number": 244,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 1.28,
+    "atomic_radius": 187.0,
+    "melting_point": 912.5,
+    "boiling_point": 3505,
+    "density": 19.816,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Plutonium is a transuranic radioactive chemical element with symbol Pu and atomic number 94. It is an actinide metal of silvery-gray appearance that tarnishes when exposed to air, and forms a dull coating when oxidized. The element normally exhibits six allotropes and four oxidation states.",
+    "source": "https://en.wikipedia.org/wiki/Plutonium"
+  },
+  {
+    "atomic_number": 95,
+    "symbol": "Am",
+    "name": "Americium",
+    "atomic_mass": 243,
+    "period": 7,
+    "group": null,
+    "category": "actinide",
+    "block": "f",
+    "protons": 95,
+    "electrons": 95,
+    "neutrons": 148,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f7",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      25,
+      8,
+      2
+    ],
+    "representative_isotope": 243,
+    "isotopes": [
+      {
+        "mass_number": 243,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 1.13,
+    "atomic_radius": 180.0,
+    "melting_point": 1449,
+    "boiling_point": 2880,
+    "density": 12.0,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Americium is a radioactive transuranic chemical element with symbol Am and atomic number 95. This member of the actinide series is located in the periodic table under the lanthanide element europium, and thus by analogy was named after the Americas. Americium was first produced in 1944 by the group of Glenn T.Seaborg from Berkeley, California, at the metallurgical laboratory of University of Chicago.",
+    "source": "https://en.wikipedia.org/wiki/Americium"
+  },
+  {
+    "atomic_number": 96,
+    "symbol": "Cm",
+    "name": "Curium",
+    "atomic_mass": 247,
+    "period": 7,
+    "group": null,
+    "category": "actinide",
+    "block": "f",
+    "protons": 96,
+    "electrons": 96,
+    "neutrons": 151,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f7 6d1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      25,
+      9,
+      2
+    ],
+    "representative_isotope": 247,
+    "isotopes": [
+      {
+        "mass_number": 247,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 1.28,
+    "atomic_radius": 169.0,
+    "melting_point": 1613,
+    "boiling_point": 3383,
+    "density": 13.51,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Curium is a transuranic radioactive chemical element with symbol Cm and atomic number 96. This element of the actinide series was named after Marie and Pierre Curie – both were known for their research on radioactivity. Curium was first intentionally produced and identified in July 1944 by the group of Glenn T. Seaborg at the University of California, Berkeley.",
+    "source": "https://en.wikipedia.org/wiki/Curium"
+  },
+  {
+    "atomic_number": 97,
+    "symbol": "Bk",
+    "name": "Berkelium",
+    "atomic_mass": 247,
+    "period": 7,
+    "group": null,
+    "category": "actinide",
+    "block": "f",
+    "protons": 97,
+    "electrons": 97,
+    "neutrons": 150,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f9",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      27,
+      8,
+      2
+    ],
+    "representative_isotope": 247,
+    "isotopes": [
+      {
+        "mass_number": 247,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 1.3,
+    "atomic_radius": null,
+    "melting_point": 1259,
+    "boiling_point": 2900,
+    "density": 14.78,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Berkelium is a transuranic radioactive chemical element with symbol Bk and atomic number 97. It is a member of the actinide and transuranium element series. It is named after the city of Berkeley, California, the location of the University of California Radiation Laboratory where it was discovered in December 1949.",
+    "source": "https://en.wikipedia.org/wiki/Berkelium"
+  },
+  {
+    "atomic_number": 98,
+    "symbol": "Cf",
+    "name": "Californium",
+    "atomic_mass": 251,
+    "period": 7,
+    "group": null,
+    "category": "actinide",
+    "block": "f",
+    "protons": 98,
+    "electrons": 98,
+    "neutrons": 153,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f10",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      28,
+      8,
+      2
+    ],
+    "representative_isotope": 251,
+    "isotopes": [
+      {
+        "mass_number": 251,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 1.3,
+    "atomic_radius": null,
+    "melting_point": 1173,
+    "boiling_point": 1743,
+    "density": 15.1,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Californium is a radioactive metallic chemical element with symbol Cf and atomic number 98. The element was first made in 1950 at the University of California Radiation Laboratory in Berkeley, by bombarding curium with alpha particles (helium-4 ions). It is an actinide element, the sixth transuranium element to be synthesized, and has the second-highest atomic mass of all the elements that have been produced in amounts large enough to see with the unaided eye (after einsteinium).",
+    "source": "https://en.wikipedia.org/wiki/Californium"
+  },
+  {
+    "atomic_number": 99,
+    "symbol": "Es",
+    "name": "Einsteinium",
+    "atomic_mass": 252,
+    "period": 7,
+    "group": null,
+    "category": "actinide",
+    "block": "f",
+    "protons": 99,
+    "electrons": 99,
+    "neutrons": 153,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f11",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      29,
+      8,
+      2
+    ],
+    "representative_isotope": 252,
+    "isotopes": [
+      {
+        "mass_number": 252,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 1.3,
+    "atomic_radius": null,
+    "melting_point": 1133,
+    "boiling_point": 1269,
+    "density": 8.84,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Einsteinium is a synthetic element with symbol Es and atomic number 99. It is the seventh transuranic element, and an actinide. Einsteinium was discovered as a component of the debris of the first hydrogen bomb explosion in 1952, and named after Albert Einstein.",
+    "source": "https://en.wikipedia.org/wiki/Einsteinium"
+  },
+  {
+    "atomic_number": 100,
+    "symbol": "Fm",
+    "name": "Fermium",
+    "atomic_mass": 257,
+    "period": 7,
+    "group": null,
+    "category": "actinide",
+    "block": "f",
+    "protons": 100,
+    "electrons": 100,
+    "neutrons": 157,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f12",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      30,
+      8,
+      2
+    ],
+    "representative_isotope": 257,
+    "isotopes": [
+      {
+        "mass_number": 257,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 1.3,
+    "atomic_radius": null,
+    "melting_point": 1800,
+    "boiling_point": null,
+    "density": null,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Fermium is a synthetic element with symbol Fm and atomic number 100. It is a member of the actinide series. It is the heaviest element that can be formed by neutron bombardment of lighter elements, and hence the last element that can be prepared in macroscopic quantities, although pure fermium metal has not yet been prepared.",
+    "source": "https://en.wikipedia.org/wiki/Fermium"
+  },
+  {
+    "atomic_number": 101,
+    "symbol": "Md",
+    "name": "Mendelevium",
+    "atomic_mass": 258,
+    "period": 7,
+    "group": null,
+    "category": "actinide",
+    "block": "f",
+    "protons": 101,
+    "electrons": 101,
+    "neutrons": 157,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f13",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      31,
+      8,
+      2
+    ],
+    "representative_isotope": 258,
+    "isotopes": [
+      {
+        "mass_number": 258,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 1.3,
+    "atomic_radius": null,
+    "melting_point": 1100,
+    "boiling_point": null,
+    "density": null,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Mendelevium is a synthetic element with chemical symbol Md (formerly Mv) and atomic number 101. A metallic radioactive transuranic element in the actinide series, it is the first element that currently cannot be produced in macroscopic quantities through neutron bombardment of lighter elements. It is the antepenultimate actinide and the ninth transuranic element.",
+    "source": "https://en.wikipedia.org/wiki/Mendelevium"
+  },
+  {
+    "atomic_number": 102,
+    "symbol": "No",
+    "name": "Nobelium",
+    "atomic_mass": 259,
+    "period": 7,
+    "group": null,
+    "category": "actinide",
+    "block": "f",
+    "protons": 102,
+    "electrons": 102,
+    "neutrons": 157,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      8,
+      2
+    ],
+    "representative_isotope": 259,
+    "isotopes": [
+      {
+        "mass_number": 259,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 1.3,
+    "atomic_radius": null,
+    "melting_point": 1100,
+    "boiling_point": null,
+    "density": null,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Nobelium is a synthetic chemical element with symbol No and atomic number 102. It is named in honor of Alfred Nobel, the inventor of dynamite and benefactor of science. A radioactive metal, it is the tenth transuranic element and is the penultimate member of the actinide series.",
+    "source": "https://en.wikipedia.org/wiki/Nobelium"
+  },
+  {
+    "atomic_number": 103,
+    "symbol": "Lr",
+    "name": "Lawrencium",
+    "atomic_mass": 266,
+    "period": 7,
+    "group": null,
+    "category": "actinide",
+    "block": "f",
+    "protons": 103,
+    "electrons": 103,
+    "neutrons": 163,
+    "electron_configuration": "[Rn] 5f14 7s2 7p1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      8,
+      3
+    ],
+    "representative_isotope": 266,
+    "isotopes": [
+      {
+        "mass_number": 266,
+        "abundance": null
+      }
+    ],
+    "electronegativity": 1.3,
+    "atomic_radius": null,
+    "melting_point": 1900,
+    "boiling_point": null,
+    "density": null,
+    "state": "solid",
+    "discovery_year": null,
+    "description": "Lawrencium is a synthetic chemical element with chemical symbol Lr (formerly Lw) and atomic number 103. It is named in honor of Ernest Lawrence, inventor of the cyclotron, a device that was used to discover many artificial radioactive elements. A radioactive metal, lawrencium is the eleventh transuranic element and is also the final member of the actinide series.",
+    "source": "https://en.wikipedia.org/wiki/Lawrencium"
+  },
+  {
+    "atomic_number": 104,
+    "symbol": "Rf",
+    "name": "Rutherfordium",
+    "atomic_mass": 267,
+    "period": 7,
+    "group": 4,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 104,
+    "electrons": 104,
+    "neutrons": 163,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d2",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      10,
+      2
+    ],
+    "representative_isotope": 267,
+    "isotopes": [
+      {
+        "mass_number": 267,
+        "abundance": null
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": null,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": null,
+    "state": "unknown",
+    "discovery_year": null,
+    "description": "Rutherfordium is a chemical element with symbol Rf and atomic number 104, named in honor of physicist Ernest Rutherford. It is a synthetic element (an element that can be created in a laboratory but is not found in nature) and radioactive; the most stable known isotope, 267Rf, has a half-life of approximately 1.3 hours. In the periodic table of the elements, it is a d - block element and the second of the fourth - row transition elements.",
+    "source": "https://en.wikipedia.org/wiki/Rutherfordium"
+  },
+  {
+    "atomic_number": 105,
+    "symbol": "Db",
+    "name": "Dubnium",
+    "atomic_mass": 268,
+    "period": 7,
+    "group": 5,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 105,
+    "electrons": 105,
+    "neutrons": 163,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d3",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      11,
+      2
+    ],
+    "representative_isotope": 268,
+    "isotopes": [
+      {
+        "mass_number": 268,
+        "abundance": null
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": null,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": null,
+    "state": "unknown",
+    "discovery_year": null,
+    "description": "Dubnium is a chemical element with symbol Db and atomic number 105. It is named after the town of Dubna in Russia (north of Moscow), where it was first produced. It is a synthetic element (an element that can be created in a laboratory but is not found in nature) and radioactive; the most stable known isotope, dubnium-268, has a half-life of approximately 28 hours.",
+    "source": "https://en.wikipedia.org/wiki/Dubnium"
+  },
+  {
+    "atomic_number": 106,
+    "symbol": "Sg",
+    "name": "Seaborgium",
+    "atomic_mass": 269,
+    "period": 7,
+    "group": 6,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 106,
+    "electrons": 106,
+    "neutrons": 163,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d4",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      12,
+      2
+    ],
+    "representative_isotope": 269,
+    "isotopes": [
+      {
+        "mass_number": 269,
+        "abundance": null
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": null,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": null,
+    "state": "unknown",
+    "discovery_year": null,
+    "description": "Seaborgium is a synthetic element with symbol Sg and atomic number 106. Its most stable isotope 271Sg has a half-life of 1.9 minutes. A more recently discovered isotope 269Sg has a potentially slightly longer half-life (ca.",
+    "source": "https://en.wikipedia.org/wiki/Seaborgium"
+  },
+  {
+    "atomic_number": 107,
+    "symbol": "Bh",
+    "name": "Bohrium",
+    "atomic_mass": 270,
+    "period": 7,
+    "group": 7,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 107,
+    "electrons": 107,
+    "neutrons": 163,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d5",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      13,
+      2
+    ],
+    "representative_isotope": 270,
+    "isotopes": [
+      {
+        "mass_number": 270,
+        "abundance": null
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": null,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": null,
+    "state": "unknown",
+    "discovery_year": null,
+    "description": "Bohrium is a chemical element with symbol Bh and atomic number 107. It is named after Danish physicist Niels Bohr. It is a synthetic element (an element that can be created in a laboratory but is not found in nature) and radioactive; the most stable known isotope, 270Bh, has a half-life of approximately 61 seconds.",
+    "source": "https://en.wikipedia.org/wiki/Bohrium"
+  },
+  {
+    "atomic_number": 108,
+    "symbol": "Hs",
+    "name": "Hassium",
+    "atomic_mass": 269,
+    "period": 7,
+    "group": 8,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 108,
+    "electrons": 108,
+    "neutrons": 161,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d6",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      14,
+      2
+    ],
+    "representative_isotope": 269,
+    "isotopes": [
+      {
+        "mass_number": 269,
+        "abundance": null
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": null,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": null,
+    "state": "unknown",
+    "discovery_year": null,
+    "description": "Hassium is a chemical element with symbol Hs and atomic number 108, named after the German state of Hesse. It is a synthetic element (an element that can be created in a laboratory but is not found in nature) and radioactive; the most stable known isotope, 269Hs, has a half-life of approximately 9.7 seconds, although an unconfirmed metastable state, 277mHs, may have a longer half-life of about 130 seconds. More than 100 atoms of hassium have been synthesized to date.",
+    "source": "https://en.wikipedia.org/wiki/Hassium"
+  },
+  {
+    "atomic_number": 109,
+    "symbol": "Mt",
+    "name": "Meitnerium",
+    "atomic_mass": 278,
+    "period": 7,
+    "group": 9,
+    "category": "unknown",
+    "block": "d",
+    "protons": 109,
+    "electrons": 109,
+    "neutrons": 169,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d7",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      15,
+      2
+    ],
+    "representative_isotope": 278,
+    "isotopes": [
+      {
+        "mass_number": 278,
+        "abundance": null
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": null,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": null,
+    "state": "unknown",
+    "discovery_year": null,
+    "description": "Meitnerium is a chemical element with symbol Mt and atomic number 109. It is an extremely radioactive synthetic element (an element not found in nature that can be created in a laboratory). The most stable known isotope, meitnerium-278, has a half-life of 7.6 seconds.",
+    "source": "https://en.wikipedia.org/wiki/Meitnerium"
+  },
+  {
+    "atomic_number": 110,
+    "symbol": "Ds",
+    "name": "Darmstadtium",
+    "atomic_mass": 281,
+    "period": 7,
+    "group": 10,
+    "category": "unknown",
+    "block": "d",
+    "protons": 110,
+    "electrons": 110,
+    "neutrons": 171,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d8",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      16,
+      2
+    ],
+    "representative_isotope": 281,
+    "isotopes": [
+      {
+        "mass_number": 281,
+        "abundance": null
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": null,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": null,
+    "state": "unknown",
+    "discovery_year": null,
+    "description": "Darmstadtium is a chemical element with symbol Ds and atomic number 110. It is an extremely radioactive synthetic element. The most stable known isotope, darmstadtium-281, has a half-life of approximately 10 seconds.",
+    "source": "https://en.wikipedia.org/wiki/Darmstadtium"
+  },
+  {
+    "atomic_number": 111,
+    "symbol": "Rg",
+    "name": "Roentgenium",
+    "atomic_mass": 282,
+    "period": 7,
+    "group": 11,
+    "category": "unknown",
+    "block": "d",
+    "protons": 111,
+    "electrons": 111,
+    "neutrons": 171,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d9",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      17,
+      2
+    ],
+    "representative_isotope": 282,
+    "isotopes": [
+      {
+        "mass_number": 282,
+        "abundance": null
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": null,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": null,
+    "state": "unknown",
+    "discovery_year": null,
+    "description": "Roentgenium is a chemical element with symbol Rg and atomic number 111. It is an extremely radioactive synthetic element (an element that can be created in a laboratory but is not found in nature); the most stable known isotope, roentgenium-282, has a half-life of 2.1 minutes. Roentgenium was first created in 1994 by the GSI Helmholtz Centre for Heavy Ion Research near Darmstadt, Germany.",
+    "source": "https://en.wikipedia.org/wiki/Roentgenium"
+  },
+  {
+    "atomic_number": 112,
+    "symbol": "Cn",
+    "name": "Copernicium",
+    "atomic_mass": 285,
+    "period": 7,
+    "group": 12,
+    "category": "transition metal",
+    "block": "d",
+    "protons": 112,
+    "electrons": 112,
+    "neutrons": 173,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      2
+    ],
+    "representative_isotope": 285,
+    "isotopes": [
+      {
+        "mass_number": 285,
+        "abundance": null
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": null,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": null,
+    "state": "unknown",
+    "discovery_year": null,
+    "description": "Copernicium is a chemical element with symbol Cn and atomic number 112. It is an extremely radioactive synthetic element that can only be created in a laboratory. The most stable known isotope, copernicium-285, has a half-life of approximately 29 seconds, but it is possible that this copernicium isotope may have a nuclear isomer with a longer half-life, 8.9 min.",
+    "source": "https://en.wikipedia.org/wiki/Copernicium"
+  },
+  {
+    "atomic_number": 113,
+    "symbol": "Nh",
+    "name": "Nihonium",
+    "atomic_mass": 286,
+    "period": 7,
+    "group": 13,
+    "category": "unknown",
+    "block": "p",
+    "protons": 113,
+    "electrons": 113,
+    "neutrons": 173,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p1",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      3
+    ],
+    "representative_isotope": 286,
+    "isotopes": [
+      {
+        "mass_number": 286,
+        "abundance": null
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": null,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": null,
+    "state": "unknown",
+    "discovery_year": null,
+    "description": "Nihonium is a chemical element with atomic number 113. It has a symbol Nh. It is a synthetic element (an element that can be created in a laboratory but is not found in nature) and is extremely radioactive; its most stable known isotope, nihonium-286, has a half-life of 20 seconds.",
+    "source": "https://en.wikipedia.org/wiki/Ununtrium"
+  },
+  {
+    "atomic_number": 114,
+    "symbol": "Fl",
+    "name": "Flerovium",
+    "atomic_mass": 289,
+    "period": 7,
+    "group": 14,
+    "category": "post-transition metal",
+    "block": "p",
+    "protons": 114,
+    "electrons": 114,
+    "neutrons": 175,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p2",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      4
+    ],
+    "representative_isotope": 289,
+    "isotopes": [
+      {
+        "mass_number": 289,
+        "abundance": null
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": null,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": null,
+    "state": "unknown",
+    "discovery_year": null,
+    "description": "Flerovium is a superheavy artificial chemical element with symbol Fl and atomic number 114. It is an extremely radioactive synthetic element. The element is named after the Flerov Laboratory of Nuclear Reactions of the Joint Institute for Nuclear Research in Dubna, Russia, where the element was discovered in 1998.",
+    "source": "https://en.wikipedia.org/wiki/Flerovium"
+  },
+  {
+    "atomic_number": 115,
+    "symbol": "Mc",
+    "name": "Moscovium",
+    "atomic_mass": 289,
+    "period": 7,
+    "group": 15,
+    "category": "unknown",
+    "block": "p",
+    "protons": 115,
+    "electrons": 115,
+    "neutrons": 174,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p3",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      5
+    ],
+    "representative_isotope": 289,
+    "isotopes": [
+      {
+        "mass_number": 289,
+        "abundance": null
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": null,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": null,
+    "state": "unknown",
+    "discovery_year": null,
+    "description": "Moscovium is the name of a synthetic superheavy element in the periodic table that has the symbol Mc and has the atomic number 115. It is an extremely radioactive element; its most stable known isotope, moscovium-289, has a half-life of only 220 milliseconds. It is also known as eka-bismuth or simply element 115.",
+    "source": "https://en.wikipedia.org/wiki/Ununpentium"
+  },
+  {
+    "atomic_number": 116,
+    "symbol": "Lv",
+    "name": "Livermorium",
+    "atomic_mass": 293,
+    "period": 7,
+    "group": 16,
+    "category": "unknown",
+    "block": "p",
+    "protons": 116,
+    "electrons": 116,
+    "neutrons": 177,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p4",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      6
+    ],
+    "representative_isotope": 293,
+    "isotopes": [
+      {
+        "mass_number": 293,
+        "abundance": null
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": null,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": null,
+    "state": "unknown",
+    "discovery_year": null,
+    "description": "Livermorium is a synthetic superheavy element with symbol Lv and atomic number 116. It is an extremely radioactive element that has only been created in the laboratory and has not been observed in nature. The element is named after the Lawrence Livermore National Laboratory in the United States, which collaborated with the Joint Institute for Nuclear Research in Dubna, Russia to discover livermorium in 2000.",
+    "source": "https://en.wikipedia.org/wiki/Livermorium"
+  },
+  {
+    "atomic_number": 117,
+    "symbol": "Ts",
+    "name": "Tennessine",
+    "atomic_mass": 294,
+    "period": 7,
+    "group": 17,
+    "category": "unknown",
+    "block": "p",
+    "protons": 117,
+    "electrons": 117,
+    "neutrons": 177,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p5",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      7
+    ],
+    "representative_isotope": 294,
+    "isotopes": [
+      {
+        "mass_number": 294,
+        "abundance": null
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": null,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": null,
+    "state": "unknown",
+    "discovery_year": null,
+    "description": "Tennessine is a superheavy artificial chemical element with an atomic number of 117 and a symbol of Ts. Also known as eka-astatine or element 117, it is the second-heaviest known element and penultimate element of the 7th period of the periodic table. As of 2016, fifteen tennessine atoms have been observed: six when it was first synthesized in 2010, seven in 2012, and two in 2014.",
+    "source": "https://en.wikipedia.org/wiki/Tennessine"
+  },
+  {
+    "atomic_number": 118,
+    "symbol": "Og",
+    "name": "Oganesson",
+    "atomic_mass": 294,
+    "period": 7,
+    "group": 18,
+    "category": "unknown",
+    "block": "p",
+    "protons": 118,
+    "electrons": 118,
+    "neutrons": 176,
+    "electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p6",
+    "shell_distribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      8
+    ],
+    "representative_isotope": 294,
+    "isotopes": [
+      {
+        "mass_number": 294,
+        "abundance": null
+      }
+    ],
+    "electronegativity": null,
+    "atomic_radius": null,
+    "melting_point": null,
+    "boiling_point": null,
+    "density": null,
+    "state": "unknown",
+    "discovery_year": null,
+    "description": "Oganesson is IUPAC's name for the transactinide element with the atomic number 118 and element symbol Og. It is also known as eka-radon or element 118, and on the periodic table of the elements it is a p-block element and the last one of the 7th period. Oganesson is currently the only synthetic member of group 18.",
+    "source": "https://en.wikipedia.org/wiki/Oganesson"
+  }
+]
